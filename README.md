@@ -34,7 +34,12 @@
 
 ## Domains
 
-Network Engineering · Ethical Hacking · IoT Security · Linux · Malware Analysis · Digital Forensics · Incident Response · Network Security · SOC Operations · Cloud Security · Threat Intelligence · Penetration Testing · Risk Management · Social Engineering · Bug Bounty · Security Architecture · OSINT · Exploit Development · Scripting · Red Teaming · Wireless Security · Web Hacking · Reverse Engineering · A.I/M.L Security · Vulnerability Assessment · Web Application Security · Governance & Compliance · Identity Access & Management
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| Network Engineering | Ethical Hacking | IoT Security | Linux | Malware Analysis | Digital Forensics | Incident Response |
+| Network Security | SOC Operations | Cloud Security | Threat Intelligence | Penetration Testing | Risk Management | Social Engineering |
+| Bug Bounty | Security Architecture | OSINT | Exploit Development | Scripting | Red Teaming | Wireless Security |
+| Web Hacking | Reverse Engineering | A.I/M.L Security | Vulnerability Assessment | Web Application Security | Governance & Compliance | Identity Access & Management |
 
 ---
 
@@ -62,71 +67,101 @@ Network Engineering · Ethical Hacking · IoT Security · Linux · Malware Analy
 ## Free Courses
 
 ### Beginner
-1. [Cisco Network Essentials](https://lnkd.in/eMXxFBPN)
-2. [Palo Alto Free Cybersecurity Courses](https://lnkd.in/ebz4VZmQ)
-3. [AWS Introductory Cloud & Security](https://lnkd.in/e_auX7VE)
-4. [Azure Cloud Security Basics](https://lnkd.in/eCq_dvDq)
-5. [GCP Cloud Fundamentals](https://lnkd.in/eDNWnVsD)
+
+| # | Course |
+|---|--------|
+| 1 | [Cisco Network Essentials](https://lnkd.in/eMXxFBPN) |
+| 2 | [Palo Alto Free Cybersecurity Courses](https://lnkd.in/ebz4VZmQ) |
+| 3 | [AWS Introductory Cloud & Security](https://lnkd.in/e_auX7VE) |
+| 4 | [Azure Cloud Security Basics](https://lnkd.in/eCq_dvDq) |
+| 5 | [GCP Cloud Fundamentals](https://lnkd.in/eDNWnVsD) |
 
 ### Fundamentals
-1. [SANS Cyber Aces](https://lnkd.in/eNCPrtdd)
-2. [(ISC)² Certified in Cybersecurity (free exam)](https://lnkd.in/e6jB_6af)
-3. [Coursera (free audit)](https://lnkd.in/ePMNVDm5)
-4. [EC-Council Free Resources](https://lnkd.in/ewiVUkYt)
-5. [Cisco Cyber Induction](https://lnkd.in/e8C3jacc)
-6. [Cisco Cyber Essentials](https://lnkd.in/eTQNsbyF)
-7. [Fortinet NSE Training](https://lnkd.in/es3c_Q6E)
+
+| # | Course |
+|---|--------|
+| 1 | [SANS Cyber Aces](https://lnkd.in/eNCPrtdd) |
+| 2 | [(ISC)² Certified in Cybersecurity (free exam)](https://lnkd.in/e6jB_6af) |
+| 3 | [Coursera (free audit)](https://lnkd.in/ePMNVDm5) |
+| 4 | [EC-Council Free Resources](https://lnkd.in/ewiVUkYt) |
+| 5 | [Cisco Cyber Induction](https://lnkd.in/e8C3jacc) |
+| 6 | [Cisco Cyber Essentials](https://lnkd.in/eTQNsbyF) |
+| 7 | [Fortinet NSE Training](https://lnkd.in/es3c_Q6E) |
 
 ### Penetration Testing
-1. [TCM Security](https://lnkd.in/eJQKmhnt)
-2. [PortSwigger Web Hacking Labs](https://lnkd.in/eEa-fNfu)
-3. [Hacker101 (CTF style)](https://lnkd.in/eJK5xp2A)
-4. [Metasploit Unleashed](https://lnkd.in/eJFcNSsz)
+
+| # | Course |
+|---|--------|
+| 1 | [TCM Security](https://lnkd.in/eJQKmhnt) |
+| 2 | [PortSwigger Web Hacking Labs](https://lnkd.in/eEa-fNfu) |
+| 3 | [Hacker101 (CTF style)](https://lnkd.in/eJK5xp2A) |
+| 4 | [Metasploit Unleashed](https://lnkd.in/eJFcNSsz) |
 
 ### Vulnerability Management
-1. [Qualys Free Modules](https://lnkd.in/eDWu2zyT)
-2. [Tenable Fundamentals](https://lnkd.in/eQW2Zjjj)
-3. [Class Central Curated Resources](https://lnkd.in/eWbmXfRU)
+
+| # | Course |
+|---|--------|
+| 1 | [Qualys Free Modules](https://lnkd.in/eDWu2zyT) |
+| 2 | [Tenable Fundamentals](https://lnkd.in/eQW2Zjjj) |
+| 3 | [Class Central Curated Resources](https://lnkd.in/eWbmXfRU) |
 
 ### SIEM & Detection
-1. [Splunk (free courses)](https://lnkd.in/e5ZVAEuF)
-2. [IBM QRadar](https://lnkd.in/ebjbyq_x)
-3. [Elastic Stack](https://lnkd.in/e-jXsnVs)
+
+| # | Course |
+|---|--------|
+| 1 | [Splunk (free courses)](https://lnkd.in/e5ZVAEuF) |
+| 2 | [IBM QRadar](https://lnkd.in/ebjbyq_x) |
+| 3 | [Elastic Stack](https://lnkd.in/e-jXsnVs) |
 
 ### Security Engineering
-1. [IoT Privacy](https://lnkd.in/eN5xDUed)
-2. [Secure Software Development](https://lnkd.in/ebGpA4wG)
-3. [University of Maryland – Software Security](https://lnkd.in/e3z4zFmJ)
-4. [Stanford Cyber Resiliency](https://lnkd.in/eg9BM5Bv)
+
+| # | Course |
+|---|--------|
+| 1 | [IoT Privacy](https://lnkd.in/eN5xDUed) |
+| 2 | [Secure Software Development](https://lnkd.in/ebGpA4wG) |
+| 3 | [University of Maryland – Software Security](https://lnkd.in/e3z4zFmJ) |
+| 4 | [Stanford Cyber Resiliency](https://lnkd.in/eg9BM5Bv) |
 
 ### SOC / SIEM / SOAR
-1. [Fundamentals](https://lnkd.in/exvHk6h2)
-2. [Deep Dive](https://lnkd.in/e3kiJ93J)
-3. [Modern SecOps](https://lnkd.in/eWYR6tpc)
-4. [SIEM Practices](https://lnkd.in/e54vEMki)
-5. [SOAR Fundamentals](https://lnkd.in/euSH2QVi)
-6. [SIEM Rules](https://lnkd.in/ei6i5DPB)
-7. [SOAR Analyst](https://lnkd.in/enyrV4p7)
-8. [SOAR Developer](https://lnkd.in/ewTJiF68)
+
+| # | Course |
+|---|--------|
+| 1 | [Fundamentals](https://lnkd.in/exvHk6h2) |
+| 2 | [Deep Dive](https://lnkd.in/e3kiJ93J) |
+| 3 | [Modern SecOps](https://lnkd.in/eWYR6tpc) |
+| 4 | [SIEM Practices](https://lnkd.in/e54vEMki) |
+| 5 | [SOAR Fundamentals](https://lnkd.in/euSH2QVi) |
+| 6 | [SIEM Rules](https://lnkd.in/ei6i5DPB) |
+| 7 | [SOAR Analyst](https://lnkd.in/enyrV4p7) |
+| 8 | [SOAR Developer](https://lnkd.in/ewTJiF68) |
 
 ### OSINT
-- [Fundamentals of OSINT](https://lnkd.in/dJyNQSSy) — Security Blue Team
-- [Introduction to Dark Web Operations](https://lnkd.in/d-rxDFBA) — Security Blue Team
-- [Cyber Threat Intelligence 101](https://lnkd.in/duR8XXdm) — arcX
-- [Open Source Intelligence](https://lnkd.in/dNaf45GC) — Basel Institute on Governance
-- [OSINT Immersive Training](https://lnkd.in/dBkX8Ups) — Kase Scenarios (check availability)
-- [Maltego for Cybercrime Investigations](https://lnkd.in/dTrr2RuC) — Maltego Technologies
-- [OSINT Workshop](https://lnkd.in/dvYN8d_h) — Cyber Institute (~$10)
+
+| Course | Provider |
+|--------|----------|
+| [Fundamentals of OSINT](https://lnkd.in/dJyNQSSy) | Security Blue Team |
+| [Introduction to Dark Web Operations](https://lnkd.in/d-rxDFBA) | Security Blue Team |
+| [Cyber Threat Intelligence 101](https://lnkd.in/duR8XXdm) | arcX |
+| [Open Source Intelligence](https://lnkd.in/dNaf45GC) | Basel Institute on Governance |
+| [OSINT Immersive Training](https://lnkd.in/dBkX8Ups) | Kase Scenarios *(check availability)* |
+| [Maltego for Cybercrime Investigations](https://lnkd.in/dTrr2RuC) | Maltego Technologies |
+| [OSINT Workshop](https://lnkd.in/dvYN8d_h) | Cyber Institute *(~$10)* |
 
 ### Binary Exploitation
-- [Binary Exploitation Playlist (YouTube)](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+
+| Course |
+|--------|
+| [Binary Exploitation Playlist (YouTube)](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) |
 
 ### Free NVIDIA AI Courses
-- [Deep Learning Fundamentals](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1)
-- [AI in the Data Center](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)
-- [Generative AI](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:NVIDIA+S-FX-16+v1)
-- [AI for Everyone](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)
-- [Transformer-Based NLP](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)
+
+| Course |
+|--------|
+| [Deep Learning Fundamentals](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1) |
+| [AI in the Data Center](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) |
+| [Generative AI](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:NVIDIA+S-FX-16+v1) |
+| [AI for Everyone](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1) |
+| [Transformer-Based NLP](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) |
 
 ---
 
@@ -146,21 +181,24 @@ Network Engineering · Ethical Hacking · IoT Security · Linux · Malware Analy
 | Cybrary – Intro to IT & Cybersecurity | [Link](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity) |
 
 ### Qualys Free Certifications (15 Courses)
-1. [Vulnerability Management](https://lnkd.in/g64maMet)
-2. [Global IT Asset Inventory](https://lnkd.in/gXR5bD5N)
-3. [Scanning Strategies](https://lnkd.in/g6cQjQuh)
-4. [Reporting Strategies](https://lnkd.in/gs6Vn-DA)
-5. [Patch Management](https://lnkd.in/gnWVDCNp)
-6. [Policy Compliance](https://lnkd.in/g5SXKncJ)
-7. [PCI Compliance](https://lnkd.in/gZns6Xdf)
-8. [Endpoint Detection & Response](https://lnkd.in/gw22Y_E)
-9. [Vulnerability Management (Advanced)](https://lnkd.in/gYAFfAuT)
-10. [Cloud Security Assessment & Response](https://lnkd.in/grrHivcW)
-11. [API Fundamentals](https://lnkd.in/gngVxhbu)
-12. [Cloud Agent](https://lnkd.in/gngVxhbu)
-13. [Container Security](https://lnkd.in/gYNCGY8A)
-14. [File Integrity Monitoring](https://lnkd.in/gYNCGY8A)
-15. [Web Application Scanning](https://lnkd.in/ggpJ-vG6)
+
+| # | Certification |
+|---|---------------|
+| 1 | [Vulnerability Management](https://lnkd.in/g64maMet) |
+| 2 | [Global IT Asset Inventory](https://lnkd.in/gXR5bD5N) |
+| 3 | [Scanning Strategies](https://lnkd.in/g6cQjQuh) |
+| 4 | [Reporting Strategies](https://lnkd.in/gs6Vn-DA) |
+| 5 | [Patch Management](https://lnkd.in/gnWVDCNp) |
+| 6 | [Policy Compliance](https://lnkd.in/g5SXKncJ) |
+| 7 | [PCI Compliance](https://lnkd.in/gZns6Xdf) |
+| 8 | [Endpoint Detection & Response](https://lnkd.in/gw22Y_E) |
+| 9 | [Vulnerability Management (Advanced)](https://lnkd.in/gYAFfAuT) |
+| 10 | [Cloud Security Assessment & Response](https://lnkd.in/grrHivcW) |
+| 11 | [API Fundamentals](https://lnkd.in/gngVxhbu) |
+| 12 | [Cloud Agent](https://lnkd.in/gngVxhbu) |
+| 13 | [Container Security](https://lnkd.in/gYNCGY8A) |
+| 14 | [File Integrity Monitoring](https://lnkd.in/gYNCGY8A) |
+| 15 | [Web Application Scanning](https://lnkd.in/ggpJ-vG6) |
 
 ---
 
@@ -221,13 +259,16 @@ Network Engineering · Ethical Hacking · IoT Security · Linux · Malware Analy
 - Wireshark
 
 ### SOC GitHub Projects (Hands-On Labs)
-- [Splunk](https://lnkd.in/d2YR_wYA)
-- [Windows Forensics](https://lnkd.in/ds6RT2Yf)
-- [Log Analysis](https://lnkd.in/dhAZvesz)
-- [Active Directory](https://lnkd.in/d5uPB29b)
-- [Security Assessments](https://lnkd.in/dCdn9G8P)
-- [Vulnerability Management](https://lnkd.in/diYtukyY)
-- [Malware Analysis](https://lnkd.in/dfq-u4HS)
+
+| Project |
+|---------|
+| [Splunk](https://lnkd.in/d2YR_wYA) |
+| [Windows Forensics](https://lnkd.in/ds6RT2Yf) |
+| [Log Analysis](https://lnkd.in/dhAZvesz) |
+| [Active Directory](https://lnkd.in/d5uPB29b) |
+| [Security Assessments](https://lnkd.in/dCdn9G8P) |
+| [Vulnerability Management](https://lnkd.in/diYtukyY) |
+| [Malware Analysis](https://lnkd.in/dfq-u4HS) |
 
 ### Mobile Hacking Tools
 | Tool | Use |
@@ -383,147 +424,156 @@ Network Engineering · Ethical Hacking · IoT Security · Linux · Malware Analy
 ## Hacking Projects
 
 ### Beginner
-1. Port Scanning with Nmap
-2. Network Packet Analysis
-3. MAC Address Spoofing
-4. Brute Forcing SSH Login
-5. Simple Password Cracker
-6. SQL Injection Basics
-7. Exploring XSS Vulnerabilities
-8. Wi-Fi Network Scanning
-9. Social Engineering
-10. Information Gathering with Recon-ng
-11. Email Phishing Simulation
-12. Building a Simple Keylogger
-13. Setting Up a Honeypot
-14. Packet Sniffing with Scapy
-15. Google Dorking
-16. Exploring OSINT with Maltego
-17. DNS Enumeration
-18. Simple ARP Spoofing Attack
-19. Creating Fake Login Pages
-20. Understanding Cookies and Sessions
-21. Creating Custom Wordlists
-22. SQLmap Usage for SQL Injection
-23. Basic Firewall Evasion Techniques
-24. HTTP Headers Analysis
-25. Exploring File Inclusion Vulnerabilities
-26. Understanding VPNs and Proxychains
-27. Burp Suite Basics
-28. Command Injection
-29. Password Hash Cracking with Hashcat
-30. Setup CTF Challenge
+
+| # | Project |
+|---|----------|
+| 1 | Port Scanning with Nmap |
+| 2 | Network Packet Analysis |
+| 3 | MAC Address Spoofing |
+| 4 | Brute Forcing SSH Login |
+| 5 | Simple Password Cracker |
+| 6 | SQL Injection Basics |
+| 7 | Exploring XSS Vulnerabilities |
+| 8 | Wi-Fi Network Scanning |
+| 9 | Social Engineering |
+| 10 | Information Gathering with Recon-ng |
+| 11 | Email Phishing Simulation |
+| 12 | Building a Simple Keylogger |
+| 13 | Setting Up a Honeypot |
+| 14 | Packet Sniffing with Scapy |
+| 15 | Google Dorking |
+| 16 | Exploring OSINT with Maltego |
+| 17 | DNS Enumeration |
+| 18 | Simple ARP Spoofing Attack |
+| 19 | Creating Fake Login Pages |
+| 20 | Understanding Cookies and Sessions |
+| 21 | Creating Custom Wordlists |
+| 22 | SQLmap Usage for SQL Injection |
+| 23 | Basic Firewall Evasion Techniques |
+| 24 | HTTP Headers Analysis |
+| 25 | Exploring File Inclusion Vulnerabilities |
+| 26 | Understanding VPNs and Proxychains |
+| 27 | Burp Suite Basics |
+| 28 | Command Injection |
+| 29 | Password Hash Cracking with Hashcat |
+| 30 | Setup CTF Challenge |
 
 ### Intermediate
-1. Building a Vulnerability Scanner in Python
-2. Privilege Escalation
-3. Metasploit Basics
-4. Exploring Directory Traversal
-5. Session Hijacking in HTTP
-6. Exploiting CSRF Vulnerabilities
-7. Setting Up a C2 Server
-8. SSL Stripping with Bettercap
-9. Wireless Network Hacking
-10. Code Injection in Web Applications
-11. Advanced Social Engineering Toolkit (SET)
-12. Using Hydra for Password Cracking
-13. Network Mapping with Netdiscover
-14. SQL Injection Exploitation with SQLmap
-15. File Upload Exploitation
-16. ARP Poisoning and MITM Attack
-17. Exploit Development Basics
-18. Using Shodan for Recon
-19. Web Application Security with ZAP
-20. Automate Vulnerability Scanning with OpenVAS
-21. Conducting Phishing Campaigns
-22. Reverse Engineering Basics
-23. Cross-Site Scripting (XSS) Automation
-24. Setting Up a Virtual Lab for Pentesting
-25. Email Spoofing
-26. Exploiting Web Sockets
-27. Command and Control Using Netcat
-28. Router Exploitation
-29. Enumeration with Enum4Linux
-30. Creating Custom Exploits for Web Applications
-31. Using Wi-Fi Pineapple for MITM Attacks
-32. Exploring Buffer Overflow on Linux
-33. Network Recon with Airodump-ng
-34. Privilege Escalation on Windows
-35. Automated SQL Injection with jSQL
-36. Mobile Application Pentesting
-37. Analyzing Network Logs for Intrusions
-38. DNS Tunneling
-39. Brute Force Attack Simulation
-40. Client-Side Attacks with BeEF
+
+| # | Project |
+|---|----------|
+| 1 | Building a Vulnerability Scanner in Python |
+| 2 | Privilege Escalation |
+| 3 | Metasploit Basics |
+| 4 | Exploring Directory Traversal |
+| 5 | Session Hijacking in HTTP |
+| 6 | Exploiting CSRF Vulnerabilities |
+| 7 | Setting Up a C2 Server |
+| 8 | SSL Stripping with Bettercap |
+| 9 | Wireless Network Hacking |
+| 10 | Code Injection in Web Applications |
+| 11 | Advanced Social Engineering Toolkit (SET) |
+| 12 | Using Hydra for Password Cracking |
+| 13 | Network Mapping with Netdiscover |
+| 14 | SQL Injection Exploitation with SQLmap |
+| 15 | File Upload Exploitation |
+| 16 | ARP Poisoning and MITM Attack |
+| 17 | Exploit Development Basics |
+| 18 | Using Shodan for Recon |
+| 19 | Web Application Security with ZAP |
+| 20 | Automate Vulnerability Scanning with OpenVAS |
+| 21 | Conducting Phishing Campaigns |
+| 22 | Reverse Engineering Basics |
+| 23 | Cross-Site Scripting (XSS) Automation |
+| 24 | Setting Up a Virtual Lab for Pentesting |
+| 25 | Email Spoofing |
+| 26 | Exploiting Web Sockets |
+| 27 | Command and Control Using Netcat |
+| 28 | Router Exploitation |
+| 29 | Enumeration with Enum4Linux |
+| 30 | Creating Custom Exploits for Web Applications |
+| 31 | Using Wi-Fi Pineapple for MITM Attacks |
+| 32 | Exploring Buffer Overflow on Linux |
+| 33 | Network Recon with Airodump-ng |
+| 34 | Privilege Escalation on Windows |
+| 35 | Automated SQL Injection with jSQL |
+| 36 | Mobile Application Pentesting |
+| 37 | Analyzing Network Logs for Intrusions |
+| 38 | DNS Tunneling |
+| 39 | Brute Force Attack Simulation |
+| 40 | Client-Side Attacks with BeEF |
 
 ### Advanced
-1. Advanced Buffer Overflow Exploitation
-2. Exploit Vulnerable APIs
-3. Cross-Site Request Forgery (CSRF) Automation
-4. Custom Malware Development
-5. Develop a Remote Keylogger
-6. Post-Exploitation with Metasploit
-7. Exploit Evasion Techniques
-8. Advanced Ransomware Simulation
-9. Browser Exploitation
-10. Wireless Deauthentication Attack
-11. Developing a Python RAT
-12. Reverse Shell Development
-13. Code Injection in DLL Files
-14. Privilege Escalation on Linux
-15. Exploit Windows SMB Vulnerabilities
-16. Custom Bruteforce Tools with Python
-17. Advanced SQL Injection Automation
-18. Creating Persistent Backdoors
-19. NTLM Hash Extraction
-20. Social Media Phishing Campaigns
-21. Advanced Network Tunneling
-22. Developing WAF Bypass Techniques
-23. Password Spraying Attack
-24. Reverse Engineering for Malware Analysis
-25. Automating Reconnaissance with Python
-26. Custom Protocol Exploitation
-27. Bypassing Two-Factor Authentication
-28. Code Injection Exploits for Shellcode Execution
-29. Zero-Day Vulnerability Research
-30. End-to-End Pentest Simulation
+
+| # | Project |
+|---|----------|
+| 1 | Advanced Buffer Overflow Exploitation |
+| 2 | Exploit Vulnerable APIs |
+| 3 | Cross-Site Request Forgery (CSRF) Automation |
+| 4 | Custom Malware Development |
+| 5 | Develop a Remote Keylogger |
+| 6 | Post-Exploitation with Metasploit |
+| 7 | Exploit Evasion Techniques |
+| 8 | Advanced Ransomware Simulation |
+| 9 | Browser Exploitation |
+| 10 | Wireless Deauthentication Attack |
+| 11 | Developing a Python RAT |
+| 12 | Reverse Shell Development |
+| 13 | Code Injection in DLL Files |
+| 14 | Privilege Escalation on Linux |
+| 15 | Exploit Windows SMB Vulnerabilities |
+| 16 | Custom Bruteforce Tools with Python |
+| 17 | Advanced SQL Injection Automation |
+| 18 | Creating Persistent Backdoors |
+| 19 | NTLM Hash Extraction |
+| 20 | Social Media Phishing Campaigns |
+| 21 | Advanced Network Tunneling |
+| 22 | Developing WAF Bypass Techniques |
+| 23 | Password Spraying Attack |
+| 24 | Reverse Engineering for Malware Analysis |
+| 25 | Automating Reconnaissance with Python |
+| 26 | Custom Protocol Exploitation |
+| 27 | Bypassing Two-Factor Authentication |
+| 28 | Code Injection Exploits for Shellcode Execution |
+| 29 | Zero-Day Vulnerability Research |
+| 30 | End-to-End Pentest Simulation |
 
 ---
 
 ## Network Engineering (YouTube)
 
-30 courses for network engineers:
-
-1. [Network Troubleshooting](https://lnkd.in/dkqAVF7U)
-2. [Palo Alto Firewall](https://lnkd.in/dj4NtUMj)
-3. [Cisco SD-WAN](https://lnkd.in/dp6uEDtN)
-4. [Scenario-Based Network Configuration](https://lnkd.in/dA7aTHHA)
-5. [Real-Time Networks Trouble Ticket](https://lnkd.in/dDGYPVs2)
-6. [Viptela SD-WAN Configurations](https://lnkd.in/dXDwhB8u)
-7. [Enterprise Network Configuration](https://lnkd.in/dQhGW4Ae)
-8. [Small Companies Network](https://lnkd.in/d9ffBAKM)
-9. [Switching Technology](https://lnkd.in/dPUCnr86)
-10. [Real Devices Configuration](https://lnkd.in/dMj-HkCA)
-11. [Live Training](https://lnkd.in/dZeX7UdX)
-12. [EIGRP](https://lnkd.in/dMVp98a4)
-13. [Wireless](https://lnkd.in/djjQZPJA)
-14. [ASA Firewall Configuration](https://lnkd.in/djiSD5xE)
-15. [VoIP](https://lnkd.in/dsHv2R6V)
-16. [Important Networking Topics](https://lnkd.in/dTsd-h_k)
-17. [OSPF](https://lnkd.in/dUYZME73)
-18. [CCNA 200-301](https://lnkd.in/d8WtGDk6)
-19. [VPN](https://lnkd.in/d7shGyZ6)
-20. [STP](https://lnkd.in/dfVQqetM)
-21. [Basic Configurations](https://lnkd.in/dSybFbZr)
-22. [BGP](https://lnkd.in/dRNCvUgn)
-23. [MPLS](https://lnkd.in/d7ekXYm8)
-24. [IPv6](https://lnkd.in/dGNKcyKT)
-25. [VRF](https://lnkd.in/dxSXx2sK)
-26. [PBR](https://lnkd.in/du4k2BUX)
-27. [EtherChannel](https://lnkd.in/dhxYtpwY)
-28. [FHRP Full Course](https://lnkd.in/d3rzcCfc)
-29. [Subnetting Q&A](https://lnkd.in/dZyJjkc5)
-30. [Packet Flow](https://lnkd.in/ddtQ2YJz)
+| # | Course |
+|---|--------|
+| 1 | [Network Troubleshooting](https://lnkd.in/dkqAVF7U) |
+| 2 | [Palo Alto Firewall](https://lnkd.in/dj4NtUMj) |
+| 3 | [Cisco SD-WAN](https://lnkd.in/dp6uEDtN) |
+| 4 | [Scenario-Based Network Configuration](https://lnkd.in/dA7aTHHA) |
+| 5 | [Real-Time Networks Trouble Ticket](https://lnkd.in/dDGYPVs2) |
+| 6 | [Viptela SD-WAN Configurations](https://lnkd.in/dXDwhB8u) |
+| 7 | [Enterprise Network Configuration](https://lnkd.in/dQhGW4Ae) |
+| 8 | [Small Companies Network](https://lnkd.in/d9ffBAKM) |
+| 9 | [Switching Technology](https://lnkd.in/dPUCnr86) |
+| 10 | [Real Devices Configuration](https://lnkd.in/dMj-HkCA) |
+| 11 | [Live Training](https://lnkd.in/dZeX7UdX) |
+| 12 | [EIGRP](https://lnkd.in/dMVp98a4) |
+| 13 | [Wireless](https://lnkd.in/djjQZPJA) |
+| 14 | [ASA Firewall Configuration](https://lnkd.in/djiSD5xE) |
+| 15 | [VoIP](https://lnkd.in/dsHv2R6V) |
+| 16 | [Important Networking Topics](https://lnkd.in/dTsd-h_k) |
+| 17 | [OSPF](https://lnkd.in/dUYZME73) |
+| 18 | [CCNA 200-301](https://lnkd.in/d8WtGDk6) |
+| 19 | [VPN](https://lnkd.in/d7shGyZ6) |
+| 20 | [STP](https://lnkd.in/dfVQqetM) |
+| 21 | [Basic Configurations](https://lnkd.in/dSybFbZr) |
+| 22 | [BGP](https://lnkd.in/dRNCvUgn) |
+| 23 | [MPLS](https://lnkd.in/d7ekXYm8) |
+| 24 | [IPv6](https://lnkd.in/dGNKcyKT) |
+| 25 | [VRF](https://lnkd.in/dxSXx2sK) |
+| 26 | [PBR](https://lnkd.in/du4k2BUX) |
+| 27 | [EtherChannel](https://lnkd.in/dhxYtpwY) |
+| 28 | [FHRP Full Course](https://lnkd.in/d3rzcCfc) |
+| 29 | [Subnetting Q&A](https://lnkd.in/dZyJjkc5) |
+| 30 | [Packet Flow](https://lnkd.in/ddtQ2YJz) |
 
 ---
 
@@ -549,18 +599,20 @@ Network Engineering · Ethical Hacking · IoT Security · Linux · Malware Analy
 
 ## Reference
 
-- [HackTricks](https://book.hacktricks.xyz) — Pentest techniques & cheatsheets (most used)
-- [GTFOBins](https://gtfobins.github.io) — Unix privilege escalation via legit binaries
-- [LOLBAS](https://lolbas-project.github.io) — Windows living-off-the-land binaries
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — Payload collection for every attack type
-- [MITRE ATT&CK](https://attack.mitre.org) — Adversary tactics & techniques framework
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) — Web application security risks
-- [Pentest Monkey Cheat Sheets](https://pentestmonkey.net/cheat-sheet) — Reverse shell & more
-- [Active Directory Mindmap (HD)](https://lnkd.in/dCRQAW8g)
-- [Linux Privilege Escalation Explained](https://www.codelivly.com/linux-privilege-escalation-explained/)
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) — Curated hacking resources
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) — OSINT tools & resources
-- [Awesome CTF](https://github.com/apsdehal/awesome-ctf) — CTF tools & resources
+| Resource | Description |
+|----------|-------------|
+| [HackTricks](https://book.hacktricks.xyz) | Pentest techniques & cheatsheets ⭐ |
+| [GTFOBins](https://gtfobins.github.io) | Unix privilege escalation via legit binaries |
+| [LOLBAS](https://lolbas-project.github.io) | Windows living-off-the-land binaries |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Payload collection for every attack type |
+| [MITRE ATT&CK](https://attack.mitre.org) | Adversary tactics & techniques framework |
+| [OWASP Top 10](https://owasp.org/www-project-top-ten/) | Web application security risks |
+| [Pentest Monkey Cheat Sheets](https://pentestmonkey.net/cheat-sheet) | Reverse shell & more |
+| [Active Directory Mindmap (HD)](https://lnkd.in/dCRQAW8g) | High-definition AD mindmap |
+| [Linux Privilege Escalation Explained](https://www.codelivly.com/linux-privilege-escalation-explained/) | Linux privesc guide |
+| [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Curated hacking resources |
+| [Awesome OSINT](https://github.com/jivoi/awesome-osint) | OSINT tools & resources |
+| [Awesome CTF](https://github.com/apsdehal/awesome-ctf) | CTF tools & resources |
 
 ---
 
@@ -583,65 +635,53 @@ Network Engineering · Ethical Hacking · IoT Security · Linux · Malware Analy
 
 **Job Roles**
 
-Network Penetration Tester · Web Penetration Tester · Malware Analyst · Network Security Professional · Network Admin · Security System Administrator · Vulnerability Tester · Security Researcher · Red Team Member · Blue Team Member · SOC Analyst · Security Auditor · Security Engineer · Security Analyst · Vulnerability Assessment Analyst · Network Security Operations · Application Security · Ethical Hacker · Security Manager
+| | | | | |
+|---|---|---|---|---|
+| Network Penetration Tester | Web Penetration Tester | Malware Analyst | Network Security Professional | Network Admin |
+| Security System Administrator | Vulnerability Tester | Security Researcher | Red Team Member | Blue Team Member |
+| SOC Analyst | Security Auditor | Security Engineer | Security Analyst | Vulnerability Assessment Analyst |
+| Network Security Operations | Application Security | Ethical Hacker | Security Manager | |
 
 **Skills to Learn**
 
-Penetration Testing · Vulnerability Assessment · Security Auditing · Ethical Hacking · Malware Analysis · Bug Bounty · Exploit Development · Kali Linux · Android Hacking · Network Hacking · GDPR · Python · Threat Analysis · Reverse Engineering · Cyber Forensics · IoT Security · SOC Operations · Web Hacking · Digital Forensics · CompTIA · CISSP · AWS Security · Docker Security · Kubernetes Security · Data Protection & Compliance · Incident Response · Cloud Penetration Testing
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| Penetration Testing | Vulnerability Assessment | Security Auditing | Ethical Hacking | Malware Analysis | Bug Bounty | Exploit Development |
+| Kali Linux | Android Hacking | Network Hacking | GDPR | Python | Threat Analysis | Reverse Engineering |
+| Cyber Forensics | IoT Security | SOC Operations | Web Hacking | Digital Forensics | CompTIA | CISSP |
+| AWS Security | Docker Security | Kubernetes Security | Data Protection & Compliance | Incident Response | Cloud Penetration Testing | |
 
 ---
 
 ## Common Vulnerabilities
 
-1. SQL Injection
-2. Cross-Site Scripting (XSS)
-3. Cross-Site Request Forgery (CSRF)
-4. Remote Code Execution (RCE)
-5. Insecure Direct Object References (IDOR)
-6. Command Injection
-7. XML External Entity (XXE)
-8. Broken Authentication
-9. Security Misconfigurations
-10. Sensitive Data Exposure
-11. Path Traversal
-12. Buffer Overflow
-13. Directory Listing
-14. Server-Side Request Forgery (SSRF)
-15. Broken Access Control
-16. Privilege Escalation
-17. Unrestricted File Upload
-18. Insecure Deserialization
-19. Weak Password Policies
-20. Clickjacking
-21. Arbitrary File Upload
-22. Information Disclosure
-23. Local File Inclusion (LFI)
-24. Remote File Inclusion (RFI)
-25. Insufficient Logging and Monitoring
-26. Misconfigured CORS Policies
-27. Credential Stuffing
-28. Subdomain Takeover
-29. Man-in-the-Middle (MITM)
-30. API Vulnerabilities
-31. Broken Session Management
-32. Cache Poisoning
-33. Race Conditions
-34. HTTP Response Splitting
-35. Improper Input Validation
-36. Weak Encryption Practices
-37. Email Spoofing
-38. DNS Spoofing
-39. Outdated Software Vulnerabilities
-40. Denial of Service (DoS)
-41. Distributed Denial of Service (DDoS)
-42. Arbitrary Code Execution
-43. Password Cracking
-44. Missing Security Headers
-45. Third-Party Dependency Risks
-46. Hardcoded Credentials
-47. Improper Error Handling
-48. Malware Injection
-49. Default Configuration Exploits
+| # | Vulnerability | # | Vulnerability |
+|---|---------------|---|---------------|
+| 1 | SQL Injection | 26 | Misconfigured CORS Policies |
+| 2 | Cross-Site Scripting (XSS) | 27 | Credential Stuffing |
+| 3 | Cross-Site Request Forgery (CSRF) | 28 | Subdomain Takeover |
+| 4 | Remote Code Execution (RCE) | 29 | Man-in-the-Middle (MITM) |
+| 5 | Insecure Direct Object References (IDOR) | 30 | API Vulnerabilities |
+| 6 | Command Injection | 31 | Broken Session Management |
+| 7 | XML External Entity (XXE) | 32 | Cache Poisoning |
+| 8 | Broken Authentication | 33 | Race Conditions |
+| 9 | Security Misconfigurations | 34 | HTTP Response Splitting |
+| 10 | Sensitive Data Exposure | 35 | Improper Input Validation |
+| 11 | Path Traversal | 36 | Weak Encryption Practices |
+| 12 | Buffer Overflow | 37 | Email Spoofing |
+| 13 | Directory Listing | 38 | DNS Spoofing |
+| 14 | Server-Side Request Forgery (SSRF) | 39 | Outdated Software Vulnerabilities |
+| 15 | Broken Access Control | 40 | Denial of Service (DoS) |
+| 16 | Privilege Escalation | 41 | Distributed Denial of Service (DDoS) |
+| 17 | Unrestricted File Upload | 42 | Arbitrary Code Execution |
+| 18 | Insecure Deserialization | 43 | Password Cracking |
+| 19 | Weak Password Policies | 44 | Missing Security Headers |
+| 20 | Clickjacking | 45 | Third-Party Dependency Risks |
+| 21 | Arbitrary File Upload | 46 | Hardcoded Credentials |
+| 22 | Information Disclosure | 47 | Improper Error Handling |
+| 23 | Local File Inclusion (LFI) | 48 | Malware Injection |
+| 24 | Remote File Inclusion (RFI) | 49 | Default Configuration Exploits |
+| 25 | Insufficient Logging and Monitoring | 50 | Open Redirect |
 
 ---
 
