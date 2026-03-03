@@ -7,25 +7,25 @@
 ## Table of Contents
 
 - [Domains](#domains)
+- [Career Roles](#career-roles)
 - [Learning Platforms](#learning-platforms)
 - [Free Courses](#free-courses)
 - [Free Certifications](#free-certifications)
 - [YouTube Channels](#youtube-channels)
+- [Network Engineering (YouTube)](#network-engineering-youtube)
 - [Tools](#tools)
 - [Search Engines for Pentesters](#search-engines-for-pentesters)
 - [Bug Bounty Platforms](#bug-bounty-platforms)
 - [Malware Analysis Sandboxes](#malware-analysis-sandboxes)
+- [DFIR / Windows Registry Forensics](#dfir--windows-registry-forensics)
 - [Cybersecurity News](#cybersecurity-news)
 - [Hacking Projects](#hacking-projects)
-- [Network Engineering (YouTube)](#network-engineering-youtube)
-- [DFIR / Windows Registry Forensics](#dfir--windows-registry-forensics)
-- [Reference](#reference)
-- [Attack Surfaces](#attack-surfaces)
-- [Career Roles](#career-roles)
-- [Common Vulnerabilities](#common-vulnerabilities)
-- [OWASP Top 10](#owasp-top-10)
 - [Vulnerable Practice Labs](#vulnerable-practice-labs)
 - [CTF Resources](#ctf-resources)
+- [Reference](#reference)
+- [Attack Surfaces](#attack-surfaces)
+- [Common Vulnerabilities](#common-vulnerabilities)
+- [OWASP Top 10](#owasp-top-10)
 - [Communities](#communities)
 - [Roadmaps](#roadmaps)
 - [Podcasts](#podcasts)
@@ -40,6 +40,28 @@
 | Network Security | SOC Operations | Cloud Security | Threat Intelligence | Penetration Testing | Risk Management | Social Engineering |
 | Bug Bounty | Security Architecture | OSINT | Exploit Development | Scripting | Red Teaming | Wireless Security |
 | Web Hacking | Reverse Engineering | A.I/M.L Security | Vulnerability Assessment | Web Application Security | Governance & Compliance | Identity Access & Management |
+
+---
+
+## Career Roles
+
+**Job Roles**
+
+| | | | | |
+|---|---|---|---|---|
+| Network Penetration Tester | Web Penetration Tester | Malware Analyst | Network Security Professional | Network Admin |
+| Security System Administrator | Vulnerability Tester | Security Researcher | Red Team Member | Blue Team Member |
+| SOC Analyst | Security Auditor | Security Engineer | Security Analyst | Vulnerability Assessment Analyst |
+| Network Security Operations | Application Security | Ethical Hacker | Security Manager | |
+
+**Skills to Learn**
+
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| Penetration Testing | Vulnerability Assessment | Security Auditing | Ethical Hacking | Malware Analysis | Bug Bounty | Exploit Development |
+| Kali Linux | Android Hacking | Network Hacking | GDPR | Python | Threat Analysis | Reverse Engineering |
+| Cyber Forensics | IoT Security | SOC Operations | Web Hacking | Digital Forensics | CompTIA | CISSP |
+| AWS Security | Docker Security | Kubernetes Security | Data Protection & Compliance | Incident Response | Cloud Penetration Testing | |
 
 ---
 
@@ -228,6 +250,43 @@
 
 ---
 
+## Network Engineering (YouTube)
+
+| # | Course |
+|---|--------|
+| 1 | [Network Troubleshooting](https://lnkd.in/dkqAVF7U) |
+| 2 | [Palo Alto Firewall](https://lnkd.in/dj4NtUMj) |
+| 3 | [Cisco SD-WAN](https://lnkd.in/dp6uEDtN) |
+| 4 | [Scenario-Based Network Configuration](https://lnkd.in/dA7aTHHA) |
+| 5 | [Real-Time Networks Trouble Ticket](https://lnkd.in/dDGYPVs2) |
+| 6 | [Viptela SD-WAN Configurations](https://lnkd.in/dXDwhB8u) |
+| 7 | [Enterprise Network Configuration](https://lnkd.in/dQhGW4Ae) |
+| 8 | [Small Companies Network](https://lnkd.in/d9ffBAKM) |
+| 9 | [Switching Technology](https://lnkd.in/dPUCnr86) |
+| 10 | [Real Devices Configuration](https://lnkd.in/dMj-HkCA) |
+| 11 | [Live Training](https://lnkd.in/dZeX7UdX) |
+| 12 | [EIGRP](https://lnkd.in/dMVp98a4) |
+| 13 | [Wireless](https://lnkd.in/djjQZPJA) |
+| 14 | [ASA Firewall Configuration](https://lnkd.in/djiSD5xE) |
+| 15 | [VoIP](https://lnkd.in/dsHv2R6V) |
+| 16 | [Important Networking Topics](https://lnkd.in/dTsd-h_k) |
+| 17 | [OSPF](https://lnkd.in/dUYZME73) |
+| 18 | [CCNA 200-301](https://lnkd.in/d8WtGDk6) |
+| 19 | [VPN](https://lnkd.in/d7shGyZ6) |
+| 20 | [STP](https://lnkd.in/dfVQqetM) |
+| 21 | [Basic Configurations](https://lnkd.in/dSybFbZr) |
+| 22 | [BGP](https://lnkd.in/dRNCvUgn) |
+| 23 | [MPLS](https://lnkd.in/d7ekXYm8) |
+| 24 | [IPv6](https://lnkd.in/dGNKcyKT) |
+| 25 | [VRF](https://lnkd.in/dxSXx2sK) |
+| 26 | [PBR](https://lnkd.in/du4k2BUX) |
+| 27 | [EtherChannel](https://lnkd.in/dhxYtpwY) |
+| 28 | [FHRP Full Course](https://lnkd.in/d3rzcCfc) |
+| 29 | [Subnetting Q&A](https://lnkd.in/dZyJjkc5) |
+| 30 | [Packet Flow](https://lnkd.in/ddtQ2YJz) |
+
+---
+
 ## Tools
 
 ### OSINT
@@ -405,6 +464,26 @@
 
 ---
 
+## DFIR / Windows Registry Forensics
+
+**Overview**
+- [Registry Forensics 2025](https://lnkd.in/e4J7HR78)
+- [Forensics Cheatsheet](https://lnkd.in/gw6E8suS)
+- [Forensics Tools](https://lnkd.in/gQFWprqW)
+- [DFIR Career Guide](https://www.dfir.training/dfir-career)
+
+**Artifacts**
+- [Scheduled Tasks](https://lnkd.in/gC5ryZ_G)
+- [NTUSER.DAT](https://lnkd.in/gwUgF5s3)
+- [Network Data](https://lnkd.in/gkM77yvt)
+- [MUICache](https://lnkd.in/gtZXCt2N)
+- [UserAssist](https://lnkd.in/ggDNQP9J)
+- [AmCache](https://lnkd.in/gK7cvdtY)
+- [Shellbags](https://lnkd.in/gejn9BJR)
+- [RunMRU](https://lnkd.in/gsKX5nU8)
+
+---
+
 ## Cybersecurity News
 
 | Source | Link |
@@ -540,60 +619,31 @@
 
 ---
 
-## Network Engineering (YouTube)
+## Vulnerable Practice Labs
 
-| # | Course |
-|---|--------|
-| 1 | [Network Troubleshooting](https://lnkd.in/dkqAVF7U) |
-| 2 | [Palo Alto Firewall](https://lnkd.in/dj4NtUMj) |
-| 3 | [Cisco SD-WAN](https://lnkd.in/dp6uEDtN) |
-| 4 | [Scenario-Based Network Configuration](https://lnkd.in/dA7aTHHA) |
-| 5 | [Real-Time Networks Trouble Ticket](https://lnkd.in/dDGYPVs2) |
-| 6 | [Viptela SD-WAN Configurations](https://lnkd.in/dXDwhB8u) |
-| 7 | [Enterprise Network Configuration](https://lnkd.in/dQhGW4Ae) |
-| 8 | [Small Companies Network](https://lnkd.in/d9ffBAKM) |
-| 9 | [Switching Technology](https://lnkd.in/dPUCnr86) |
-| 10 | [Real Devices Configuration](https://lnkd.in/dMj-HkCA) |
-| 11 | [Live Training](https://lnkd.in/dZeX7UdX) |
-| 12 | [EIGRP](https://lnkd.in/dMVp98a4) |
-| 13 | [Wireless](https://lnkd.in/djjQZPJA) |
-| 14 | [ASA Firewall Configuration](https://lnkd.in/djiSD5xE) |
-| 15 | [VoIP](https://lnkd.in/dsHv2R6V) |
-| 16 | [Important Networking Topics](https://lnkd.in/dTsd-h_k) |
-| 17 | [OSPF](https://lnkd.in/dUYZME73) |
-| 18 | [CCNA 200-301](https://lnkd.in/d8WtGDk6) |
-| 19 | [VPN](https://lnkd.in/d7shGyZ6) |
-| 20 | [STP](https://lnkd.in/dfVQqetM) |
-| 21 | [Basic Configurations](https://lnkd.in/dSybFbZr) |
-| 22 | [BGP](https://lnkd.in/dRNCvUgn) |
-| 23 | [MPLS](https://lnkd.in/d7ekXYm8) |
-| 24 | [IPv6](https://lnkd.in/dGNKcyKT) |
-| 25 | [VRF](https://lnkd.in/dxSXx2sK) |
-| 26 | [PBR](https://lnkd.in/du4k2BUX) |
-| 27 | [EtherChannel](https://lnkd.in/dhxYtpwY) |
-| 28 | [FHRP Full Course](https://lnkd.in/d3rzcCfc) |
-| 29 | [Subnetting Q&A](https://lnkd.in/dZyJjkc5) |
-| 30 | [Packet Flow](https://lnkd.in/ddtQ2YJz) |
+| Lab | Description |
+|-----|-------------|
+| [DVWA](https://github.com/digininja/DVWA) | Damn Vulnerable Web App — classic beginner target |
+| [Metasploitable](https://sourceforge.net/projects/metasploitable/) | Intentionally vulnerable Linux VM |
+| [VulnHub](https://www.vulnhub.com/) | Downloadable vulnerable VMs |
+| [OWASP WebGoat](https://owasp.org/www-project-webgoat/) | Insecure app for learning web vulns |
+| [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) | Modern vulnerable web app |
+| [bWAPP](http://www.itsecgames.com/) | Buggy web app with 100+ vulnerabilities |
+| [HackMyVM](https://hackmyvm.eu/) | CTF-style vulnerable VMs |
+| [PentesterLab](https://pentesterlab.com/) | Web exploitation exercises |
 
 ---
 
-## DFIR / Windows Registry Forensics
+## CTF Resources
 
-**Overview**
-- [Registry Forensics 2025](https://lnkd.in/e4J7HR78)
-- [Forensics Cheatsheet](https://lnkd.in/gw6E8suS)
-- [Forensics Tools](https://lnkd.in/gQFWprqW)
-- [DFIR Career Guide](https://www.dfir.training/dfir-career)
-
-**Artifacts**
-- [Scheduled Tasks](https://lnkd.in/gC5ryZ_G)
-- [NTUSER.DAT](https://lnkd.in/gwUgF5s3)
-- [Network Data](https://lnkd.in/gkM77yvt)
-- [MUICache](https://lnkd.in/gtZXCt2N)
-- [UserAssist](https://lnkd.in/ggDNQP9J)
-- [AmCache](https://lnkd.in/gK7cvdtY)
-- [Shellbags](https://lnkd.in/gejn9BJR)
-- [RunMRU](https://lnkd.in/gsKX5nU8)
+| Resource | Description |
+|----------|-------------|
+| [CTFtime](https://ctftime.org/) | Upcoming CTF events & team rankings |
+| [0xdf writeups](https://0xdf.gitlab.io/) | Detailed HackTheBox/CTF writeups |
+| [IppSec Search](https://ippsec.rocks/) | Search HackTheBox walkthrough videos |
+| [CTF101](https://ctf101.org/) | Beginner CTF concepts explained |
+| [CyberChef](https://gchq.github.io/CyberChef/) | Swiss Army knife for data manipulation |
+| [dCode](https://www.dcode.fr/en) | Cipher & encoding solver |
 
 ---
 
@@ -628,28 +678,6 @@
 | Networking | OSI Model, TCP/IP, DNS & DHCP, Routing & Switching, Firewalls & Protocols |
 
 > Related standard: ISO 27001
-
----
-
-## Career Roles
-
-**Job Roles**
-
-| | | | | |
-|---|---|---|---|---|
-| Network Penetration Tester | Web Penetration Tester | Malware Analyst | Network Security Professional | Network Admin |
-| Security System Administrator | Vulnerability Tester | Security Researcher | Red Team Member | Blue Team Member |
-| SOC Analyst | Security Auditor | Security Engineer | Security Analyst | Vulnerability Assessment Analyst |
-| Network Security Operations | Application Security | Ethical Hacker | Security Manager | |
-
-**Skills to Learn**
-
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| Penetration Testing | Vulnerability Assessment | Security Auditing | Ethical Hacking | Malware Analysis | Bug Bounty | Exploit Development |
-| Kali Linux | Android Hacking | Network Hacking | GDPR | Python | Threat Analysis | Reverse Engineering |
-| Cyber Forensics | IoT Security | SOC Operations | Web Hacking | Digital Forensics | CompTIA | CISSP |
-| AWS Security | Docker Security | Kubernetes Security | Data Protection & Compliance | Incident Response | Cloud Penetration Testing | |
 
 ---
 
@@ -701,34 +729,6 @@
 | A08 | [**Software or Data Integrity Failures**](https://owasp.org/Top10/2025/A08_2025-Software_and_Data_Integrity_Failures/) | Insecure deserialization, unsigned updates |
 | A09 | [**Security Logging and Alerting Failures**](https://owasp.org/Top10/2025/A09_2025-Security_Logging_and_Alerting_Failures/) | Insufficient logging to detect/respond to breaches |
 | A10 | [**Mishandling of Exceptional Conditions**](https://owasp.org/Top10/2025/A10_2025-Mishandling_of_Exceptional_Conditions/) | Improper error/exception handling leading to info disclosure or failures |
-
----
-
-## Vulnerable Practice Labs
-
-| Lab | Description |
-|-----|-------------|
-| [DVWA](https://github.com/digininja/DVWA) | Damn Vulnerable Web App — classic beginner target |
-| [Metasploitable](https://sourceforge.net/projects/metasploitable/) | Intentionally vulnerable Linux VM |
-| [VulnHub](https://www.vulnhub.com/) | Downloadable vulnerable VMs |
-| [OWASP WebGoat](https://owasp.org/www-project-webgoat/) | Insecure app for learning web vulns |
-| [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) | Modern vulnerable web app |
-| [bWAPP](http://www.itsecgames.com/) | Buggy web app with 100+ vulnerabilities |
-| [HackMyVM](https://hackmyvm.eu/) | CTF-style vulnerable VMs |
-| [PentesterLab](https://pentesterlab.com/) | Web exploitation exercises |
-
----
-
-## CTF Resources
-
-| Resource | Description |
-|----------|-------------|
-| [CTFtime](https://ctftime.org/) | Upcoming CTF events & team rankings |
-| [0xdf writeups](https://0xdf.gitlab.io/) | Detailed HackTheBox/CTF writeups |
-| [IppSec Search](https://ippsec.rocks/) | Search HackTheBox walkthrough videos |
-| [CTF101](https://ctf101.org/) | Beginner CTF concepts explained |
-| [CyberChef](https://gchq.github.io/CyberChef/) | Swiss Army knife for data manipulation |
-| [dCode](https://www.dcode.fr/en) | Cipher & encoding solver |
 
 ---
 
