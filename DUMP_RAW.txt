@@ -1,0 +1,529 @@
+> Cybersecurity (and what not in it)
+Network Engineering
+Ethical Hacking
+IoT Security
+Linux
+Malware Analysis
+Digital Forensics
+Incident Response
+Linux Systems
+Network Security
+SOC Operations
+Cloud Security
+Threat Intelligence
+Penetration Testing
+Risk Management
+Social Engineering
+Bug Bounty
+Security Architecture
+OSINT
+Shocktonic
+Exploit Development
+Scripting
+Red Teaming
+Wireless Security
+Information Security
+Web Hacking
+Reverse Engineering
+A.I/M.L Security
+Vulnerability Assessment
+Web Application Security
+Governance and compliance
+identity access and management
+
+
+
+
+>learn cyber
+https://tryhackme.com/
+https://hackthebox.com/
+https://letsdefend.io/
+
+https://codelivly.com/
+https://www.netacad.com/
+https://pwn.college/
+https://picoctf.org/ 
+https://overthewire.org/
+https://crackmes.one/
+https://portswigger.net/web-security
+
+https://learn.microsoft.com/en-us/training/browse/
+https://skillbuilder.aws/
+https://www.securityblue.team/training
+https://kc7cyber.com/
+
+
+Linux Privilege Escalation Explained: https://www.codelivly.com/linux-privilege-escalation-explained/ 
+
+
+
+18/09/25, 9:40 pm - Shrinath: ⭕Every SOC Analyst needs to see this.
+Stop reading, start doing. Here are 7 hands-on GitHub projects to build practical cybersecurity skills today.
+
+• Splunk: https://lnkd.in/d2YR_wYA
+• Windows Forensics: https://lnkd.in/ds6RT2Yf
+• Log Analysis: https://lnkd.in/dhAZvesz
+• Active Directory: https://lnkd.in/d5uPB29b
+• Security Assessments: https://lnkd.in/dCdn9G8P
+• Vulnerability Management: https://lnkd.in/diYtukyY
+• Malware Analysis: https://lnkd.in/dfq-u4HS
+
+
+
+01/10/25, 11:42 pm - Shrinath: Cybersecurity Courses You Can Start Today
+I always say: knowledge grows when it’s shared.
+
+So here’s a curated list of free courses — from beginner to advanced — that can help you start or upgrade your cybersecurity journey.
+
+Beginner Level
+1. Cisco Network Essentials — https://lnkd.in/eMXxFBPN
+2. Palo Alto free cybersecurity courses — https://lnkd.in/ebz4VZmQ
+3. AWS introductory cloud & security — https://lnkd.in/e_auX7VE
+4. Azure cloud security basics — https://lnkd.in/eCq_dvDq
+5. GCP cloud fundamentals — https://lnkd.in/eDNWnVsD
+Fundamentals
+1. SANS (Cyber Aces) — https://lnkd.in/eNCPrtdd
+2. (ISC)² Certified in Cybersecurity (free exam) — https://lnkd.in/e6jB_6af
+3. Coursera (free audit modules) — https://lnkd.in/ePMNVDm5
+4. EC-Council free resources — https://lnkd.in/ewiVUkYt
+5. Cisco Cyber Induction — https://lnkd.in/e8C3jacc
+6. Cisco Cyber Essentials — https://lnkd.in/eTQNsbyF
+7. Fortinet NSE training — https://lnkd.in/es3c_Q6E
+
+Penetration Testing
+1. TCM Security — https://lnkd.in/eJQKmhnt
+2. PortSwigger Web Hacking Labs — https://lnkd.in/eEa-fNfu
+3. Hacker101 (CTF style) — https://lnkd.in/eJK5xp2A
+4. Metasploit Unleashed — https://lnkd.in/eJFcNSsz
+
+Vulnerability Management
+1. Qualys free modules — https://lnkd.in/eDWu2zyT
+2. Tenable fundamentals — https://lnkd.in/eQW2Zjjj
+3. Class Central curated resources — https://lnkd.in/eWbmXfRU
+
+SIEM & Detection
+1. Splunk (free courses) — https://lnkd.in/e5ZVAEuF
+2. IBM QRadar — https://lnkd.in/ebjbyq_x
+3. Elastic Stack — https://lnkd.in/e-jXsnVs
+
+Security Engineering
+1. IoT Privacy — https://lnkd.in/eN5xDUed
+2. Secure Software Development — https://lnkd.in/ebGpA4wG
+3. University of Maryland (Software Security) — https://lnkd.in/e3z4zFmJ
+4. Stanford Cyber Resiliency — https://lnkd.in/eg9BM5Bv
+
+
+
+14/11/25, 2:24 pm - Shrinath: Here’s what you’ll learn 👇
+✅ Threat Detection
+✅ Incident Response
+✅ SIEM Rule Building
+✅ SOAR Playbook Automation
+✅ Real-world Labs & Simulations
+
+Start your journey here:
+
+1️⃣ Fundamentals – https://lnkd.in/exvHk6h2
+
+2️⃣ Deep Dive – https://lnkd.in/e3kiJ93J
+
+3️⃣ Modern SecOps – https://lnkd.in/eWYR6tpc
+
+4️⃣ SIEM Practices – https://lnkd.in/e54vEMki
+
+5️⃣ SOAR Fundamentals – https://lnkd.in/euSH2QVi
+
+6️⃣ SIEM Rules – https://lnkd.in/ei6i5DPB
+
+7️⃣ SOAR Analyst – https://lnkd.in/enyrV4p7
+
+8️⃣ SOAR Developer – https://lnkd.in/ewTJiF68
+
+
+
+
+🔎 **What’s Included?**
+- **Fundamentals of OSINT** (Security Blue Team) – [Link](https://lnkd.in/dJyNQSSy)
+- **Introduction to Dark Web Operations** (Security Blue Team) – [Link](https://lnkd.in/d-rxDFBA)
+- **Cyber Threat Intelligence 101** (arcX) – [Link](https://lnkd.in/duR8XXdm)
+- **Open Source Intelligence** (Basel Institute on Governance) – [Link](https://lnkd.in/dNaf45GC)
+- **OSINT Immersive Training** (Kase Scenarios - BETRAYAL) – [Link](https://lnkd.in/dBkX8Ups) (Note: slots are full, but check other courses)
+- **Maltego for Cybercrime Investigations** (Maltego Technologies) – [Link](https://lnkd.in/dTrr2RuC)
+
+💡 **Bonus:**
+- **OSINT Workshop** (Cyber Institute) – Currently available for $10
+ [Link](https://lnkd.in/dvYN8d_h)
+
+
+
+
+ Looking for FREE cybersecurity certifications?✨
+
+Share, don't be selfish, don't think only of yourself. 
+
+
+Here's 15 FREE courses provided by the Qualys.
+
+1. Vulnerability Management: https://lnkd.in/g64maMet
+
+2. Global IT Asset Inventory: https://lnkd.in/gXR5bD5N
+
+3. Scanning Strategies: https://lnkd.in/g6cQjQuh
+
+4. Reporting Strategies: https://lnkd.in/gs6Vn-DA
+
+5. Patch Management: https://lnkd.in/gnWVDCNp
+
+6. Policy Compliance: https://lnkd.in/g5SXKncJ
+
+7. PCI Compliance: https://lnkd.in/gZns6Xdf
+
+8. Endpoint Detection & Response: https://lnkd.in/gw22Y_E
+
+9. Vulnerability Management: https://lnkd.in/gYAFfAuT
+
+10. Cloud Security Assessment & Response: https://lnkd.in/grrHivcW
+
+11. API Fundamentals: https://lnkd.in/gngVxhbu
+
+12. Cloud Agent: https://lnkd.in/gngVxhbu
+
+13. Container Security: https://lnkd.in/gYNCGY8A
+
+14. File Integrity Monitoring: https://lnkd.in/gYNCGY8A
+
+15. Web Application Scanning: https://lnkd.in/ggpJ-vG6
+
+
+
+Active Directory Mindmap - ➡️HD guide link: https://lnkd.in/dCRQAW8g 
+
+
+
+
+
+
+
+30 Best Courses For Network Engineer on Youtube:
+============================
+1. Network Troubleshooting
+https://lnkd.in/dkqAVF7U
+
+2. Palo Alto Firewall
+https://lnkd.in/dj4NtUMj
+
+3. Cisco SD-WAN
+https://lnkd.in/dp6uEDtN
+
+4. Scenario-Based Network Configuration
+https://lnkd.in/dA7aTHHA
+
+5. Real-Time Networks Trouble Ticket
+https://lnkd.in/dDGYPVs2
+
+6. Viptela SD-WAN Configurations
+https://lnkd.in/dXDwhB8u
+
+7. Enterprise Network Configuration
+https://lnkd.in/dQhGW4Ae
+
+8. Small Companies Network
+https://lnkd.in/d9ffBAKM
+
+9. Switching Technology
+https://lnkd.in/dPUCnr86
+
+10. Real Devices Configuration
+https://lnkd.in/dMj-HkCA
+
+11. Live Training
+https://lnkd.in/dZeX7UdX
+
+12. EIGRP
+https://lnkd.in/dMVp98a4
+
+13. Wireless
+https://lnkd.in/djjQZPJA
+
+14. ASA Firewall Configuration
+https://lnkd.in/djiSD5xE
+
+15. Voice over IP(VoIP)
+https://lnkd.in/dsHv2R6V
+
+16. Important Networking Topics
+https://lnkd.in/dTsd-h_k
+
+17. OSPF
+https://lnkd.in/dUYZME73
+
+18. CCNA 200-301
+https://lnkd.in/d8WtGDk6
+
+19. VPN
+https://lnkd.in/d7shGyZ6
+
+20. STP
+https://lnkd.in/dfVQqetM
+
+21. Basic Configurations
+https://lnkd.in/dSybFbZr
+
+22. BGP
+https://lnkd.in/dRNCvUgn
+
+23. MPLS
+https://lnkd.in/d7ekXYm8
+
+24. IPv6
+https://lnkd.in/dGNKcyKT
+
+25. VRF
+https://lnkd.in/dxSXx2sK
+
+26. PBR
+https://lnkd.in/du4k2BUX
+
+27. EtherChannel
+https://lnkd.in/dhxYtpwY
+
+28. FHRP Full Course
+https://lnkd.in/d3rzcCfc
+
+29. Subnetting QnA
+https://lnkd.in/dZyJjkc5
+
+30. Packet Flow
+https://lnkd.in/ddtQ2YJz
+
+
+
+
+
+
+
+Save this DFIR series:
+
+Windows Registry Forensics 2025 
+
+Overview blogs:
+ 
+→ Registry Forensics 2025: https://lnkd.in/e4J7HR78
+→ Forensics Cheatsheet: https://lnkd.in/gw6E8suS
+→ Forensics Tools: https://lnkd.in/gQFWprqW
+
+Artifact blogs: 
+
+→ Scheduled Tasks: https://lnkd.in/gC5ryZ_G
+→ NTUSER.DAT: https://lnkd.in/gwUgF5s3
+→ Network Data: https://lnkd.in/gkM77yvt
+→ MUICache: https://lnkd.in/gtZXCt2N
+→ UserAssist: https://lnkd.in/ggDNQP9J
+→ AmCache: https://lnkd.in/gK7cvdtY
+→ Shellbags: https://lnkd.in/gejn9BJR
+→ RunMRU: https://lnkd.in/gsKX5nU8
+
+P.S. Share this post to help other DFIR pros!
+
+
+
+https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN < GOOD BINARY EXPLOITATION
+
+
+
+
+
+ 
+
+
+
+free nvida courses on ai Links:👇
+2. https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1
+3. https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1
+4. https://learn.nvidia.com/courses/course-detail?course_id=course-v1:NVIDIA+S-FX-16+v1
+5. https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1
+6. https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1
+
+
+
+
+
+💻📱 Top 5 Mobile Hacking Tools
+Zanti - mitm
+FING - nmap
+wifite 
+intercepter-ng - captiure pass cookies oin oublic networks
+termux
+frp hijacker
+mtk flashing
+samfw
+
+
+
+
+certis in reusme good LINKS 👇 
+1.https://www.netacad.com/courses/introduction-to-cybersecurity?
+2.https://www.ibm.com/training/badge/cybersecurity-fundamentals?
+3.https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/
+4.https://www.coursera.org/professional-certificates/google-it-support
+5.https://www.futurelearn.com/courses/introduction-to-cyber-security
+6.https://www.futurelearn.com/courses/cyber-security-foundations
+7.https://training.fortinet.com/local/staticpage/view.php?page=library_the-threat-landscape
+8.https://www.cybrary.it/course/introduction-to-it-and-cybersecurity
+
+
+
+
+
+
+
+
+5 Beginner Cybersecurity Projects that recruiters LOVE 
+Security Monitoring Lab
+Set up a Windows virtual machine, enable system logging, and identify login events, process creation, and basic suspicious activity using a log viewer
+Malware Analysis Fundamentals
+Analyze a safe malware test file in an isolated virtual machine and document system changes, processes, and attempted network activity
+Incident Response Plan
+Create a written incident response plan for phishing, malware infection, and account compromise, then walk through a mock incident step by step
+Cloud Security Lab
+Deploy an AWS S3 bucket and EC2 instance, intentionally configure insecure permissions, identify the risks, and then fix them using least-privilege settings
+Traffic Monitoring and Mitigation Lab
+Generate test traffic against a web erver and observe system performance before and after applying rate limiting
+
+
+
+#SEARCH ENGINES FOR PENTESTERS
+1. shodan.io (Server)
+2. google.com (Dorks)
+3. wigle.net (WiFi Networks)
+4. grep.app (Codes Search)
+5. app.binaryedge (Threat Intelligence)
+6. onyphe.io (Server)
+7. viz.greynoise.io (Threat Intelligence)
+8. censys.io (Server)
+9. hunter.io (Email Addresses)
+10. fofa.info (Threat Intelligence)
+11. zoomeye.org (Threat Intelligence)
+12. leakix.net (Threat Intelligence)
+13. intelx.io (OSINT)
+14. app.netlas.io (Attack Surface)
+15. searchcode.com (Codes Search)
+16. urlscan.io (Threat Intelligence)
+17. publicwww.com (Codes Search)
+18. fullhunt.io (Attack Surface)
+22. crt.sh (Certificate Search) 
+23. vulners.com (Vulnerabilities) 
+24. pulsedive.com(Threat Intelligence) 
+https://netlas.io/    SHODAN ALT
+https://urlscan.io/   URL SCAN
+https://dehashed.com/   DARKWEB SCAN
+https://ahmia.fi/     DARKWEB TOR SEARCH
+https://exploit-db.com/    CVE DATABASE
+https://pulsedive.com/    THREAT INTELLIGENCE PLATFORM
+https://grayhatwarfare.com/    AWS S3 BUCKETS SEARCH
+https://en.fofa.info/    CYBERSPACE SEARCH ENGINE
+https://leakix.net/   VULERNERABLE INTERNET
+https://otx.alienvault.com/   REALTIME CYBER THREATS    *
+https://grep.app/    SEARCH ALL GITHUB
+https://vulners.com/   CVE DATABASE
+https://pentester.land/  CYBER BLOGS
+https://www.hacksplaining.com   LEARN CYBER
+
+
+
+
+CYBER YTBRS
+https://www.youtube.com/@_JohnHammond 
+https://www.youtube.com/@ippsec 
+https://www.youtube.com/@hak5 
+https://www.youtube.com/@LiveOverflow 
+https://www.youtube.com/@thenewboston 
+https://www.youtube.com/@LoiLiangYang 
+https://www.youtube.com/@pcsecuritychannel 
+https://www.youtube.com/@NullByteWHT 
+https://www.youtube.com/@collinsinfosec 
+https://www.youtube.com/HackerSploit 
+https://www.youtube.com/@Computerphile 
+https://www.youtube.com/@hackaday 
+https://www.youtube.com/@NetworkChuck 
+https://www.youtube.com/@BePracticalTech
+
+
+
+
+
+🤿Bug Bounty Platforms🥌
+
+HackerOne https://www.hackerone.com
+Bugcrowd https://www.bugcrowd.com
+Synack https://www.synack.com
+Detectify https://cs.detectify.com
+Cobalt https://cobalt.io
+Open Bug Bounty https://www.openbugbounty.org
+Zero Copter https://www.zerocopter.com
+Yes We Hack https://www.yeswehack.com
+Hacken Proof https://hackenproof.com
+Vulnerability Lab https://www.vulnerability-lab.com
+Fire Bounty https://firebounty.com
+Bug Bounty https://bugbounty.jp/
+Anti Hack https://antihack.me
+Intigrity https://intigrity.com/
+Safe Hats https://safehats.com
+Red Storm https://www.redstorm.io/
+Cyber Army https://www.cyberarmy.id
+Yogosha https://yogosha.com
+
+
+
+
+malware analysis sandbox
+1. https://any.run/
+2. https://tria.ge/
+3. https://www.joesandbox.com/#windows
+
+
+
+
+
+-----------------CYBERTOOOLS
+
+>CYBERNEWS
+https://www.bleepingcomputer.com/
+https://threatpost.com/
+https://krebsonsecurity.com/
+https://daily.dev/
+
+>OSINT
+exploit-db.com/google-hacking-database     GOOGLE DORKING
+theharvester    GET EMAILS
+sherlock     SOCIALS ACCS
+sublist3r    SUBDOMAIN SEARCH 
+
+>forensics
+autopsy
+FTK  Forensic Toolkit
+Encase
+wireshark
+magnet axiom
+sleuth kit
+x ways forensics
+cellebrite ufed -mobiledata
+prodiscover forensic
+volatility framework
+ahmia
+haystacksolutions
+searchcode,com
+
+
+>socanalyst
+splunk
+crowdstrike
+virustotal
+letsdefend
+wireshark
+
+
+>CYBER EXTENTIONS
+FoxyProxy
+Shodan
+Wappalyzer - Technology profiler
