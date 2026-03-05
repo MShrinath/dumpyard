@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+- [Start Here](#start-here)
 - [Domains](#domains)
 - [Career Roles](#career-roles)
 - [Learning Platforms](#learning-platforms)
@@ -29,6 +30,22 @@
 - [Communities](#communities)
 - [Roadmaps](#roadmaps)
 - [Podcasts](#podcasts)
+
+---
+
+## Start Here
+
+> New to cybersecurity? No experience needed — follow this path:
+
+| Step | Action | Where |
+|------|--------|-------|
+| 1 | Understand the landscape | [Domains](#domains) |
+| 2 | See where it can take you | [Career Roles](#career-roles) |
+| 3 | Take a free beginner course | [Free Courses → Beginner](#free-courses) |
+| 4 | Start hands-on labs | [Learning Platforms](#learning-platforms) — start with TryHackMe |
+| 5 | Work through beginner projects | [Hacking Projects → Beginner](#hacking-projects) |
+| 6 | Get your first free cert | [Free Certifications](#free-certifications) |
+| Bonus | Stay current & find your people | [Communities](#communities) · [Cybersecurity News](#cybersecurity-news) |
 
 ---
 
