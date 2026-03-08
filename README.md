@@ -15,6 +15,7 @@
 - [YouTube Channels](#youtube-channels)
 - [Network Engineering (YouTube)](#network-engineering-youtube)
 - [Tools](#tools)
+- [Toolkit](#toolkit)
 - [Search Engines for Pentesters](#search-engines-for-pentesters)
 - [Bug Bounty Platforms](#bug-bounty-platforms)
 - [Malware Analysis Sandboxes](#malware-analysis-sandboxes)
@@ -404,6 +405,192 @@
 | Nessus | Vulnerability scanner |
 | OpenVAS | Open-source vulnerability scanner |
 | Masscan | Fast large-scale port scanner |
+
+---
+
+## Toolkit
+
+> Workflow-based methodology reference — organized by attack phase and technique category.
+
+### 1. Recon & Discovery
+| Technique |
+|-----------|
+| Subdomain Enumeration |
+| DNS & IP Lookup |
+| Port Scanning |
+| WHOIS & Domain Research |
+| Certificate Transparency (CT Logs) |
+| Web Crawling & Spidering |
+| Google Dorking / Search Operators |
+
+### 2. Web Application Testing
+| Technique |
+|-----------|
+| XSS Testing |
+| SQL Injection Testing |
+| File Upload Testing |
+| Directory & Path Discovery |
+| SSRF / LFI / RFI Testing |
+| HTML/JS Analyzers |
+
+### 3. Network Analysis
+| Technique |
+|-----------|
+| Network Scanning |
+| Port & Service Enumeration |
+| Packet Sniffing |
+| Traffic Analysis |
+| ARP/DNS Spoofing Simulation |
+| Host Discovery |
+| Protocol Inspection |
+
+### 4. Authentication Testing
+| Technique |
+|-----------|
+| Brute Force & Credential Stuffing |
+| Session Management Testing |
+| JWT / Token Analysis |
+| OAuth / SSO Flaws |
+| Password Policy Bypass |
+| MFA Bypass Testing |
+
+### 5. Vulnerability Assessment
+| Technique |
+|-----------|
+| CVE / Known Vulnerability Scanning |
+| Misconfiguration Detection |
+| Permission & Privilege Auditing |
+| Web Server Scanning |
+| Service Version Fingerprinting |
+| Risk Prioritization |
+
+### 6. Security Headers & Config Testing
+| Technique |
+|-----------|
+| HTTP Security Headers Audit |
+| Cookie & Session Flag Testing |
+| TLS/SSL Configuration Testing |
+| CORS Misconfiguration Testing |
+| Clickjacking Prevention (X-Frame-Options) |
+| CSP (Content Security Policy) Review |
+
+### 7. File & Data Analysis
+| Technique |
+|-----------|
+| Metadata Extraction |
+| File Type Detection / Magic Bytes |
+| Steganography Detection |
+| Binary / Hex Analysis |
+| Embedded Payload Detection |
+| Document Forensics (PDF, Office files) |
+
+### 8. Fuzzing & Input Testing
+| Technique |
+|-----------|
+| Parameter Fuzzing |
+| API Endpoint Fuzzing |
+| Boundary / Edge Case Testing |
+| Buffer Overflow Inputs |
+| Format String Testing |
+| Mutation-Based Fuzzing |
+
+### 9. Automation & Template-Based Scanning
+| Technique |
+|-----------|
+| Nuclei Templates |
+| Custom YAML/JSON Scan Configs |
+| CI/CD Pipeline Integration |
+| Scheduled Scan Automation |
+| Mass Scanning Scripts |
+| Result Aggregation & Deduplication |
+
+### 10. Mobile Security Analysis
+| Technique |
+|-----------|
+| APK Decompilation & Reverse |
+| Android Permission Analysis |
+| Traffic Interception / SSL Pinning Bypass |
+| Insecure Local Storage Detection |
+| Weak Encryption Auditing |
+| Android/iOS App Testing |
+
+### 11. Reverse Engineering
+| Technique |
+|-----------|
+| Binary Disassembly |
+| Static Analysis |
+| Dynamic / Runtime Analysis |
+| Hardcoded Secret Extraction |
+| Encryption Routine Identification |
+| C2 / Malware Flow Analysis |
+
+### 12. Encoding, Hashing & Encryption
+| Technique |
+|-----------|
+| Base64 / URL Encoding & Decoding |
+| Hash Generation & Cracking (MD5, SHA, bcrypt) |
+| JWT Decoding & Manipulation |
+| Cipher Identification |
+| Payload Obfuscation / Deobfuscation |
+| Weak Crypto Detection |
+
+### 13. Forensics & Incident Analysis
+| Technique |
+|-----------|
+| Memory Dump Analysis |
+| Log Review & Timeline Reconstruction |
+| Disk Image Analysis |
+| Deleted File Recovery |
+| Persistence Mechanism Detection |
+| Attack Attribution |
+
+### 14. Utilities & Helpers
+| Technique |
+|-----------|
+| HTTP Request Builder |
+| Header Inspector / Analyzer |
+| Temp Email / Identity Generator |
+| Reverse Shell Generator |
+| Payload Encoder / Decoder |
+| Hash Identifier |
+
+### 15. Simulation & Learning Labs
+| Technique |
+|-----------|
+| XSS / SQLi / SSRF Practice Environments |
+| Brute Force Labs |
+| Account Takeover Challenges |
+| CTF-Style Exercises |
+| Incident Response Simulations |
+
+### 16. Post-Assessment Tools
+| Technique |
+|-----------|
+| Privilege Escalation Scripts |
+| User / Share Enumeration |
+| Lateral Movement Helpers |
+| Payload Delivery Tools |
+| Post-Exploitation Checklists |
+| Report / Evidence Collection |
+
+### 17. Cloud & Container Security
+| Technique |
+|-----------|
+| S3 Bucket Misconfiguration Scan |
+| Docker Image Vulnerability Scan |
+| Kubernetes RBAC Auditing |
+| Cloud IAM Review |
+| Container Escape Testing |
+| Public Cloud Exposure Detection |
+
+### 18. Browser & Extension Tools
+| Technique |
+|-----------|
+| Traffic Interception (Burp/ZAP) |
+| Browser DevTools Exploitation |
+| CSP Debugger |
+| Script Injection via Extensions |
+| Cookie / Storage Inspector |
 
 ---
 
