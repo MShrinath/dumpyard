@@ -309,34 +309,34 @@
 ### OSINT
 | Tool | Use |
 |------|-----|
-| [Exploit-DB / Google Dorks](https://exploit-db.com/google-hacking-database) | Google dorking |
-| theHarvester | Get emails |
-| Sherlock | Find social media accounts |
-| Sublist3r | Subdomain enumeration |
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) | Automated OSINT reconnaissance |
+| [theHarvester](https://github.com/laramies/theHarvester) | Get emails |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Find social media accounts |
+| [Sublist3r](https://github.com/aboul3la/Sublist3r) | Subdomain enumeration |
 
 ### Forensics
 | Tool | Use |
 |------|-----|
-| Autopsy | Open-source digital forensics platform |
-| FTK (Forensic Toolkit) | Commercial forensic investigation suite |
-| EnCase | Enterprise-grade disk forensics |
-| Wireshark | Network packet capture & analysis |
-| Magnet Axiom | Mobile & computer forensic investigation |
-| Sleuth Kit | CLI-based forensic toolkit |
-| X-Ways Forensics | Advanced hex editor & forensic tool |
-| Cellebrite UFED | Mobile device data extraction |
+| [Autopsy](https://www.autopsy.com/) | Open-source digital forensics platform |
+| [FTK (Forensic Toolkit)](https://www.exterro.com/digital-forensics-software/forensic-toolkit) | Commercial forensic investigation suite |
+| [EnCase](https://www.opentext.com/products/encase-forensic) | Enterprise-grade disk forensics |
+| [Wireshark](https://www.wireshark.org/) | Network packet capture & analysis |
+| [Magnet Axiom](https://www.magnetforensics.com/products/magnet-axiom/) | Mobile & computer forensic investigation |
+| [Sleuth Kit](https://www.sleuthkit.org/) | CLI-based forensic toolkit |
+| [X-Ways Forensics](https://www.x-ways.net/forensics/) | Advanced hex editor & forensic tool |
+| [Cellebrite UFED](https://cellebrite.com/en/ufed/) | Mobile device data extraction |
 | ProDiscover Forensic | Disk image acquisition & analysis |
-| Volatility Framework | Memory forensics framework |
-| Haystacksolutions | Cloud forensic tools |
+| [Volatility Framework](https://volatilityfoundation.org/) | Memory forensics framework |
+| [Haystacksolutions](https://www.haystacksolutions.com/) | Cloud forensic tools |
 
 ### SOC Analyst
 | Tool | Use |
 |------|-----|
-| Splunk | SIEM & log analysis platform |
-| CrowdStrike | Endpoint detection & response |
-| VirusTotal | Multi-engine malware scanning |
-| LetsDefend | SOC training environment |
-| Wireshark | Network traffic analysis |
+| [Splunk](https://www.splunk.com/) | SIEM & log analysis platform |
+| [CrowdStrike](https://www.crowdstrike.com/) | Endpoint detection & response |
+| [TheHive](https://thehive-project.org/) | Incident response & case management |
+| [MISP](https://www.misp-project.org/) | Malware information sharing platform |
+| [Wireshark](https://www.wireshark.org/) | Network traffic analysis |
 
 ### SOC GitHub Projects (Hands-On Labs)
 
@@ -355,31 +355,31 @@
 ### Mobile Hacking Tools
 | Tool | Use |
 |------|-----|
-| zANTI | MITM attacks |
-| Fing | Network scanner (like nmap) |
-| Wifite | Wireless attacks |
+| [zANTI](https://www.zimperium.com/zanti-mobile-penetration-testing/) | MITM attacks |
+| [Fing](https://www.fing.com/) | Network scanner (like nmap) |
+| [Wifite](https://github.com/derv82/wifite2) | Wireless attacks |
 | Intercepter-NG | Capture passwords & cookies on public networks |
-| Termux | Linux terminal on Android |
+| [Termux](https://termux.dev/) | Linux terminal on Android |
 | FRP Hijacker | FRP bypass |
 | MTK Flashing | MediaTek device flashing |
-| SamFW | Samsung firmware |
+| [SamFW](https://samfw.com/) | Samsung firmware |
 
 ### Browser Extensions
 | Extension | Use |
 |-----------|-----|
-| FoxyProxy | Proxy management (works with Burp/ZAP) |
-| Shodan | In-browser Shodan threat intelligence |
-| Wappalyzer | Website technology profiler |
+| [FoxyProxy](https://getfoxyproxy.org/) | Proxy management (works with Burp/ZAP) |
+| [Shodan](https://www.shodan.io/) | In-browser Shodan threat intelligence |
+| [Wappalyzer](https://www.wappalyzer.com/) | Website technology profiler |
 
 ### Reverse Engineering
 | Tool | Use |
 |------|-----|
-| Ghidra | NSA reverse engineering framework |
-| IDA Free | Industry-standard disassembler |
-| radare2 | Open-source RE framework |
-| x64dbg | Windows debugger |
-| pwndbg | GDB plugin for exploit dev |
-| Binary Ninja | Modern RE platform |
+| [Ghidra](https://ghidra-sre.org/) | NSA reverse engineering framework |
+| [IDA Free](https://hex-rays.com/ida-free/) | Industry-standard disassembler |
+| [radare2](https://rada.re/n/) | Open-source RE framework |
+| [x64dbg](https://x64dbg.com/) | Windows debugger |
+| [pwndbg](https://github.com/pwndbg/pwndbg) | GDB plugin for exploit dev |
+| [Binary Ninja](https://binary.ninja/) | Modern RE platform |
 
 ### Web App Testing
 | Tool | Use |
@@ -394,24 +394,24 @@
 ### Password Cracking
 | Tool | Use |
 |------|-----|
-| Hashcat | GPU-based password cracking |
-| John the Ripper | CPU-based password cracker |
-| CeWL | Custom wordlist from a website |
-| Crunch | Wordlist generator |
+| [Hashcat](https://hashcat.net/hashcat/) | GPU-based password cracking |
+| [John the Ripper](https://www.openwall.com/john/) | CPU-based password cracker |
+| [CeWL](https://github.com/digininja/CeWL) | Custom wordlist from a website |
+| [Crunch](https://sourceforge.net/projects/crunch-wordlist/) | Wordlist generator |
 
 ### Wireless
 | Tool | Use |
 |------|-----|
-| Aircrack-ng | WiFi security auditing suite |
-| Kismet | Wireless network detector & sniffer |
+| [Aircrack-ng](https://www.aircrack-ng.org/) | WiFi security auditing suite |
+| [Kismet](https://www.kismetwireless.net/) | Wireless network detector & sniffer |
 
 ### Network Scanning
 | Tool | Use |
 |------|-----|
-| Nmap | Network discovery & port scanning |
-| Nessus | Vulnerability scanner |
-| OpenVAS | Open-source vulnerability scanner |
-| Masscan | Fast large-scale port scanner |
+| [Nmap](https://nmap.org/) | Network discovery & port scanning |
+| [Nessus](https://www.tenable.com/products/nessus) | Vulnerability scanner |
+| [OpenVAS](https://www.openvas.org/) | Open-source vulnerability scanner |
+| [Masscan](https://github.com/robertdavidgraham/masscan) | Fast large-scale port scanner |
 
 ---
 
@@ -742,7 +742,7 @@
 
 | Resource | Description |
 |----------|-------------|
-| [HackTricks](https://book.hacktricks.xyz) | Pentest techniques & cheatsheets ⭐ |
+| [HackTricks](https://book.hacktricks.xyz) | Pentest techniques & cheatsheets |
 | [GTFOBins](https://gtfobins.github.io) | Unix privilege escalation via legit binaries |
 | [LOLBAS](https://lolbas-project.github.io) | Windows living-off-the-land binaries |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Payload collection for every attack type |
@@ -792,11 +792,11 @@
 | 14 | Server-Side Request Forgery (SSRF) | 39 | Outdated Software Vulnerabilities |
 | 15 | Broken Access Control | 40 | Denial of Service (DoS) |
 | 16 | Privilege Escalation | 41 | Distributed Denial of Service (DDoS) |
-| 17 | Unrestricted File Upload | 42 | Arbitrary Code Execution |
+| 17 | Unrestricted File Upload | 42 | HTTP Request Smuggling |
 | 18 | Insecure Deserialization | 43 | Password Cracking |
 | 19 | Weak Password Policies | 44 | Missing Security Headers |
 | 20 | Clickjacking | 45 | Third-Party Dependency Risks |
-| 21 | Arbitrary File Upload | 46 | Hardcoded Credentials |
+| 21 | Server-Side Template Injection (SSTI) | 46 | Hardcoded Credentials |
 | 22 | Information Disclosure | 47 | Improper Error Handling |
 | 23 | Local File Inclusion (LFI) | 48 | Malware Injection |
 | 24 | Remote File Inclusion (RFI) | 49 | Default Configuration Exploits |
