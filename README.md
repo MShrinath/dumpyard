@@ -110,88 +110,90 @@
 
 | # | Course |
 |---|--------|
-| 1 | [Cisco Network Essentials](https://lnkd.in/eMXxFBPN) |
-| 2 | [Palo Alto Free Cybersecurity Courses](https://lnkd.in/ebz4VZmQ) |
-| 3 | [AWS Introductory Cloud & Security](https://lnkd.in/e_auX7VE) |
-| 4 | [Azure Cloud Security Basics](https://lnkd.in/eCq_dvDq) |
-| 5 | [GCP Cloud Fundamentals](https://lnkd.in/eDNWnVsD) |
+| 1 | [Cisco Network Essentials](https://www.netacad.com/courses/networking/networking-essentials) |
+| 2 | [Palo Alto Free Cybersecurity Courses](https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses) |
+| 3 | [AWS Introductory Cloud & Security](https://explore.skillbuilder.aws/learn/signin) |
+| 4 | [Azure Cloud Security Basics](https://learn.microsoft.com/en-us/training/azure/) |
+| 5 | [GCP Cloud Fundamentals](https://cloud.google.com/training) |
 
 ### Fundamentals
 
 | # | Course |
 |---|--------|
-| 1 | [SANS Cyber Aces](https://lnkd.in/eNCPrtdd) |
-| 2 | [(ISC)² Certified in Cybersecurity (free exam)](https://lnkd.in/e6jB_6af) |
-| 3 | [Coursera (free audit)](https://lnkd.in/ePMNVDm5) |
-| 4 | [EC-Council Free Resources](https://lnkd.in/ewiVUkYt) |
-| 5 | [Cisco Cyber Induction](https://lnkd.in/e8C3jacc) |
-| 6 | [Cisco Cyber Essentials](https://lnkd.in/eTQNsbyF) |
-| 7 | [Fortinet NSE Training](https://lnkd.in/es3c_Q6E) |
+| 1 | [(ISC)² Certified in Cybersecurity (free exam)](https://www.isc2.org/Certifications/CC) |
+| 2 | [Coursera (free audit)](https://www.coursera.org/learn/foundations-cybersecurity) |
+| 3 | [EC-Council Free Resources](https://www.coursera.org/learn/foundations-cybersecurity) |
+| 4 | [Cisco Cyber Induction](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US) |
+| 5 | [Cisco Cyber Essentials](https://www.netacad.com/courses/cybersecurity-essentials?courseLang=en-US) |
+| 6 | [Fortinet NSE Training](https://www.fortinet.com/training/cybersecurity-professionals) |
 
 ### Penetration Testing
 
 | # | Course |
 |---|--------|
-| 1 | [TCM Security](https://lnkd.in/eJQKmhnt) |
-| 2 | [PortSwigger Web Hacking Labs](https://lnkd.in/eEa-fNfu) |
-| 3 | [Hacker101 (CTF style)](https://lnkd.in/eJK5xp2A) |
-| 4 | [Metasploit Unleashed](https://lnkd.in/eJFcNSsz) |
+| 1 | [TCM Security](https://academy.tcm-sec.com/p/learn-penetration-testing-free) |
+| 2 | [PortSwigger Web Hacking Labs](https://portswigger.net/web-security) |
+| 3 | [Hacker101 (CTF style)](https://www.hacker101.com/) |
+| 4 | [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) |
 
-### Vulnerability Management
-
-| # | Course |
+### Vulnerability Management 
+| # | Course | 
 |---|--------|
-| 1 | [Qualys Free Modules](https://lnkd.in/eDWu2zyT) |
-| 2 | [Tenable Fundamentals](https://lnkd.in/eQW2Zjjj) |
-| 3 | [Class Central Curated Resources](https://lnkd.in/eWbmXfRU) |
+| 1 | [Qualys Free Modules](https://www.qualys.com/training) |
+| 2 | [Class Central Curated Resources](https://www.classcentral.com/course/get-started-with-vulnerability-assessment-70775) |
+| 3 | [Tenable On-Demand Training (Free Tier)](https://www.tenable.com/education/on-demand-training) |
+| 4 | [Rapid7 Vulnerability Management Fundamentals](https://www.rapid7.com/fundamentals/vulnerability-management/) |
+| 5 | [OpenVAS / Greenbone Community Docs](https://greenbone.github.io/docs/) |
 
 ### SIEM & Detection
-
 | # | Course |
 |---|--------|
-| 1 | [Splunk (free courses)](https://lnkd.in/e5ZVAEuF) |
-| 2 | [IBM QRadar](https://lnkd.in/ebjbyq_x) |
-| 3 | [Elastic Stack](https://lnkd.in/e-jXsnVs) |
+| 1 | [Splunk (free courses)](https://www.splunk.com/en_us/training/free-courses/overview.html) |
+| 2 | [IBM Security Learning](https://www.ibm.com/training/security) |
+| 3 | [Elastic Stack SIEM](https://www.elastic.co/docs/solutions/security/get-started/get-started-detect-with-siem) |
+| 4 | [Microsoft Sentinel (SC-200 path)](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-azure-sentinel/) |
+| 5 | [Elastic Free Training](https://www.elastic.co/training/free) |
+| 6 | [Wazuh Free Documentation & Labs](https://documentation.wazuh.com/current/getting-started/index.html) |
 
 ### Security Engineering
-
 | # | Course |
 |---|--------|
-| 1 | [IoT Privacy](https://lnkd.in/eN5xDUed) |
-| 2 | [Secure Software Development](https://lnkd.in/ebGpA4wG) |
-| 3 | [University of Maryland – Software Security](https://lnkd.in/e3z4zFmJ) |
-| 4 | [Stanford Cyber Resiliency](https://lnkd.in/eg9BM5Bv) |
+| 1 | [Open Security Training 2 (OST2)](https://p.ost2.fyi/) |
+| 2 | [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework/) |
+| 3 | [SAFECode Free Training](https://safecode.org/training/) |
+| 4 | [Secure Code Warrior (Free Tier)](https://www.securecodewarrior.com/) |
+| 5 | [DevSecOps Foundation Resources](https://www.devsecops.org/) |
 
 ### SOC / SIEM / SOAR
 
+> Courses sourced from [cloudskillsboost.google](https://www.cloudskillsboost.google/)
+
 | # | Course |
 |---|--------|
-| 1 | [Fundamentals](https://lnkd.in/exvHk6h2) |
-| 2 | [Deep Dive](https://lnkd.in/e3kiJ93J) |
-| 3 | [Modern SecOps](https://lnkd.in/eWYR6tpc) |
-| 4 | [SIEM Practices](https://lnkd.in/e54vEMki) |
-| 5 | [SOAR Fundamentals](https://lnkd.in/euSH2QVi) |
-| 6 | [SIEM Rules](https://lnkd.in/ei6i5DPB) |
-| 7 | [SOAR Analyst](https://lnkd.in/enyrV4p7) |
-| 8 | [SOAR Developer](https://lnkd.in/ewTJiF68) |
+| 1 | [Fundamentals](https://www.cloudskillsboost.google/paths/581/course_templates/971) |
+| 2 | [Deep Dive](https://www.cloudskillsboost.google/paths/581/course_templates/972) |
+| 3 | [Modern SecOps](https://www.cloudskillsboost.google/paths/581/course_templates/1153) |
+| 4 | [SOAR Analyst](https://www.cloudskillsboost.google/paths/187/course_templates/567) |
+| 5 | [SOAR Developer](https://www.cloudskillsboost.google/paths/187/course_templates/568) |
 
 ### OSINT
 
 | Course | Provider |
 |--------|----------|
-| [Fundamentals of OSINT](https://lnkd.in/dJyNQSSy) | Security Blue Team |
-| [Introduction to Dark Web Operations](https://lnkd.in/d-rxDFBA) | Security Blue Team |
-| [Cyber Threat Intelligence 101](https://lnkd.in/duR8XXdm) | arcX |
-| [Open Source Intelligence](https://lnkd.in/dNaf45GC) | Basel Institute on Governance |
-| [OSINT Immersive Training](https://lnkd.in/dBkX8Ups) | Kase Scenarios *(check availability)* |
-| [Maltego for Cybercrime Investigations](https://lnkd.in/dTrr2RuC) | Maltego Technologies |
-| [OSINT Workshop](https://lnkd.in/dvYN8d_h) | Cyber Institute *(~$10)* |
+| [Fundamentals of OSINT](https://elearning.securityblue.team/home/courses/free-courses/introduction-to-osint#description) | Security Blue Team |
+| [Introduction to Dark Web Operations](https://elearning.securityblue.team/login#description) | Security Blue Team |
+| [Cyber Threat Intelligence 101](https://arcx.io/courses/cyber-threat-intelligence-101) | arcX |
+| [Open Source Intelligence](https://learn.baselgovernance.org/enrol/index.php?id=79) | Basel Institute on Governance |
+| [Maltego for Cybercrime Investigations](https://academy.maltego.com/maltego-for-cybercrime-foundations) | Maltego Technologies |
 
 ### Binary Exploitation
-
 | Course |
 |--------|
 | [Binary Exploitation Playlist (YouTube)](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) |
+| [Nightmare – Binary Exploitation Guide](https://guyinatuxedo.github.io/) |
+| [ROP Emporium](https://ropemporium.com/) |
+| [pwn.college](https://pwn.college/) |
+| [ir0nstone's Binary Exploitation Notes](https://ir0nstone.gitbook.io/notes) |
 
 ### Free NVIDIA AI Courses
 
@@ -220,25 +222,22 @@
 | Fortinet – Threat Landscape | [Link](https://training.fortinet.com/local/staticpage/view.php?page=library_the-threat-landscape) |
 | Cybrary – Intro to IT & Cybersecurity | [Link](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity) |
 
-### Qualys Free Certifications (15 Courses)
+### Qualys Free Certifications (12 Courses)
 
 | # | Certification |
 |---|---------------|
-| 1 | [Vulnerability Management](https://lnkd.in/g64maMet) |
-| 2 | [Global IT Asset Inventory](https://lnkd.in/gXR5bD5N) |
-| 3 | [Scanning Strategies](https://lnkd.in/g6cQjQuh) |
-| 4 | [Reporting Strategies](https://lnkd.in/gs6Vn-DA) |
-| 5 | [Patch Management](https://lnkd.in/gnWVDCNp) |
-| 6 | [Policy Compliance](https://lnkd.in/g5SXKncJ) |
-| 7 | [PCI Compliance](https://lnkd.in/gZns6Xdf) |
-| 8 | [Endpoint Detection & Response](https://lnkd.in/gw22Y_E) |
-| 9 | [Vulnerability Management (Advanced)](https://lnkd.in/gYAFfAuT) |
-| 10 | [Cloud Security Assessment & Response](https://lnkd.in/grrHivcW) |
-| 11 | [API Fundamentals](https://lnkd.in/gngVxhbu) |
-| 12 | [Cloud Agent](https://lnkd.in/gngVxhbu) |
-| 13 | [Container Security](https://lnkd.in/gYNCGY8A) |
-| 14 | [File Integrity Monitoring](https://lnkd.in/gYNCGY8A) |
-| 15 | [Web Application Scanning](https://lnkd.in/ggpJ-vG6) |
+| 1 | [Vulnerability Management](https://www.qualys.com/training/course/vmdr/) |
+| 2 | [Global IT Asset Inventory](https://www.qualys.com/training/course/global-it-asset-inventory/) |
+| 3 | [Scanning Strategies](https://www.qualys.com/training/course/scanning-strategies/) |
+| 4 | [Reporting Strategies](https://www.qualys.com/training/course/reporting-strategies/) |
+| 5 | [Patch Management](https://www.qualys.com/training/course/patch-management/) |
+| 6 | [Policy Compliance](https://www.qualys.com/training/course/policy-compliance/) |
+| 7 | [PCI Compliance](https://www.qualys.com/training/course/pci-compliance/) |
+| 8 | [Vulnerability Management (Advanced)](https://www.qualys.com/training/course/vulnerability-management-foundation/) |
+| 9 | [Cloud Security Assessment & Response](https://www.qualys.com/training/course/cloud-security-assessment-and-response/) |
+| 10 | [API Fundamentals](https://www.qualys.com/training/course/qualys-api-fundamentals/) |
+| 11 | [Container Security](https://www.qualys.com/training/course/container-security/) |
+| 12 | [Web Application Scanning](https://www.qualys.com/training/course/web-application-scanning/) |
 
 ---
 
@@ -272,36 +271,36 @@
 
 | # | Course |
 |---|--------|
-| 1 | [Network Troubleshooting](https://lnkd.in/dkqAVF7U) |
-| 2 | [Palo Alto Firewall](https://lnkd.in/dj4NtUMj) |
-| 3 | [Cisco SD-WAN](https://lnkd.in/dp6uEDtN) |
-| 4 | [Scenario-Based Network Configuration](https://lnkd.in/dA7aTHHA) |
-| 5 | [Real-Time Networks Trouble Ticket](https://lnkd.in/dDGYPVs2) |
-| 6 | [Viptela SD-WAN Configurations](https://lnkd.in/dXDwhB8u) |
-| 7 | [Enterprise Network Configuration](https://lnkd.in/dQhGW4Ae) |
-| 8 | [Small Companies Network](https://lnkd.in/d9ffBAKM) |
-| 9 | [Switching Technology](https://lnkd.in/dPUCnr86) |
-| 10 | [Real Devices Configuration](https://lnkd.in/dMj-HkCA) |
-| 11 | [Live Training](https://lnkd.in/dZeX7UdX) |
-| 12 | [EIGRP](https://lnkd.in/dMVp98a4) |
-| 13 | [Wireless](https://lnkd.in/djjQZPJA) |
-| 14 | [ASA Firewall Configuration](https://lnkd.in/djiSD5xE) |
-| 15 | [VoIP](https://lnkd.in/dsHv2R6V) |
-| 16 | [Important Networking Topics](https://lnkd.in/dTsd-h_k) |
-| 17 | [OSPF](https://lnkd.in/dUYZME73) |
-| 18 | [CCNA 200-301](https://lnkd.in/d8WtGDk6) |
-| 19 | [VPN](https://lnkd.in/d7shGyZ6) |
-| 20 | [STP](https://lnkd.in/dfVQqetM) |
-| 21 | [Basic Configurations](https://lnkd.in/dSybFbZr) |
-| 22 | [BGP](https://lnkd.in/dRNCvUgn) |
-| 23 | [MPLS](https://lnkd.in/d7ekXYm8) |
-| 24 | [IPv6](https://lnkd.in/dGNKcyKT) |
-| 25 | [VRF](https://lnkd.in/dxSXx2sK) |
-| 26 | [PBR](https://lnkd.in/du4k2BUX) |
-| 27 | [EtherChannel](https://lnkd.in/dhxYtpwY) |
-| 28 | [FHRP Full Course](https://lnkd.in/d3rzcCfc) |
-| 29 | [Subnetting Q&A](https://lnkd.in/dZyJjkc5) |
-| 30 | [Packet Flow](https://lnkd.in/ddtQ2YJz) |
+| 1 | [Network Troubleshooting](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6GOAo40ZPIH1bp3FAzFqFl) |
+| 2 | [Palo Alto Firewall](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6NNKtNtrZT1l5FAG9ZX-vh) |
+| 3 | [Cisco SD-WAN](https://www.youtube.com/playlist?list=PLmgyxPj-5jn5aB1EBtGnui2aSFLB_D2nX) |
+| 4 | [Scenario-Based Network Configuration](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7Q7TUXO4ui9RnTpPGbpplR) |
+| 5 | [Real-Time Networks Trouble Ticket](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7AL7IpmfkdHt3fFHUTvIvw) |
+| 6 | [Viptela SD-WAN Configurations](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4eYpmcn39qRLYcPtMhJAYX) |
+| 7 | [Enterprise Network Configuration](https://www.youtube.com/playlist?list=PLmgyxPj-5jn5hxqqoqmbAGhc8I0r8HSkV) |
+| 8 | [Small Companies Network](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6rr0ceokiIfRRST8_Jxpr3) |
+| 9 | [Switching Technology](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6OW48mZb2GlBd-qHrBI32l) |
+| 10 | [Real Devices Configuration](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4QoMKmdl6KYQZSxosw-wuq) |
+| 11 | [Live Training](https://www.youtube.com/playlist?list=PLmgyxPj-5jn5za6zBABjsaDvKuc3mSANr) |
+| 12 | [EIGRP](https://www.youtube.com/playlist?list=PLmgyxPj-5jn5Flh9mb64-TWQOXNedW8Vz) |
+| 13 | [Wireless](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6wvS47W1d_90IQFR2r2Q0m) |
+| 14 | [ASA Firewall Configuration](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4ToJQTLHmqgkh_vQW7IGyE) |
+| 15 | [VoIP](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7ioMcShHzNNY3pYb4zY0dd) |
+| 16 | [Important Networking Topics](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4qF7UuJWnEvQ3FOVfMDnCd) |
+| 17 | [OSPF](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7zgoSR7vjUYA44yzx8xvnf) |
+| 18 | [CCNA 200-301](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4WN-d7uKN1a4O1DnBwc9j2) |
+| 19 | [VPN](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7knP3rq1k2UiDRSJNh7bU1) |
+| 20 | [STP](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7bxCNnzq1Ozw8C2s7YcmcV) |
+| 21 | [Basic Configurations](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4ABc4dIQ8C7mQqGAkCGaeE) |
+| 22 | [BGP](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6dr8VyA1bNIiEsjkU3YG-X) |
+| 23 | [MPLS](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4eKco3y4b2iTVbo4H0dnOg) |
+| 24 | [IPv6](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6UfS4DcMF0cmPTTgYxApQT) |
+| 25 | [VRF](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6rpjePThTVOaizyuzDrcGv) |
+| 26 | [PBR](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4rF_1McAgTKacQx1iCThUa) |
+| 27 | [EtherChannel](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4rF_1McAgTKacQx1iCThUa) |
+| 28 | [FHRP Full Course](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4rF_1McAgTKacQx1iCThUa) |
+| 29 | [Subnetting Q&A](https://www.youtube.com/playlist?list=PLmgyxPj-5jn521pjRylAytFN6TC-cs2VA) |
+| 30 | [Packet Flow](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7d_uRmMXZDygzHC-0MzWqm) |
 
 ---
 
@@ -337,15 +336,17 @@
 
 ### SOC GitHub Projects (Hands-On Labs)
 
+> Projects by [0xrajneesh](https://github.com/0xrajneesh) on GitHub
+
 | Project |
 |---------|
-| [Splunk](https://lnkd.in/d2YR_wYA) |
-| [Windows Forensics](https://lnkd.in/ds6RT2Yf) |
-| [Log Analysis](https://lnkd.in/dhAZvesz) |
-| [Active Directory](https://lnkd.in/d5uPB29b) |
-| [Security Assessments](https://lnkd.in/dCdn9G8P) |
-| [Vulnerability Management](https://lnkd.in/diYtukyY) |
-| [Malware Analysis](https://lnkd.in/dfq-u4HS) |
+| [Splunk](https://github.com/0xrajneesh/Splunk-Projects-For-Beginners) |
+| [Windows Forensics](https://github.com/0xrajneesh/Windows-Forensics-Projects-for-Beginners) |
+| [Log Analysis](https://github.com/0xrajneesh/Log-Analysis-Projects-for-Beginners) |
+| [Active Directory](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects) |
+| [Security Assessments](https://github.com/0xrajneesh/Security-Assessments-projects-for-Beginners) |
+| [Vulnerability Management](https://github.com/0xrajneesh/Vulnerability-Management-Projects-for-Beginners) |
+| [Malware Analysis](https://github.com/0xrajneesh/Malware-Analysis-Projects-for-Beginners) |
 
 ### Mobile Hacking Tools
 | Tool | Use |
@@ -377,11 +378,11 @@
 ### Web App Testing
 | Tool | Use |
 |------|-----|
-| Nikto | Web server vulnerability scanner |
-| Gobuster | Directory/subdomain brute forcer |
-| Feroxbuster | Fast directory discovery |
-| Wfuzz | Web fuzzer |
-| SQLmap | Automated SQL injection tool |
+| [Nikto](https://github.com/sullo/nikto) | Web server vulnerability scanner |
+| [Gobuster](https://github.com/OJ/gobuster) | Directory/subdomain brute forcer |
+| [Feroxbuster](https://github.com/epi052/feroxbuster) | Fast directory discovery |
+| [Wfuzz](https://github.com/xmendez/wfuzz) | Web fuzzer |
+| [SQLmap](https://sqlmap.org/) | Automated SQL injection tool |
 | [xssnow](https://github.com/dr34mhacks/xssnow) | XSS payload collection |
 
 ### Password Cracking
@@ -671,20 +672,20 @@
 ## DFIR / Windows Registry Forensics
 
 **Overview**
-- [Registry Forensics 2025](https://lnkd.in/e4J7HR78)
-- [Forensics Cheatsheet](https://lnkd.in/gw6E8suS)
-- [Forensics Tools](https://lnkd.in/gQFWprqW)
+- [Registry Forensics 2025](https://www.cybertriage.com/blog/windows-registry-forensics-2025/)
+- [Forensics Cheatsheet](https://www.cybertriage.com/blog/windows-registry-forensics-cheat-sheet-2025/)
+- [Forensics Tools](https://www.cybertriage.com/blog/2025-guide-to-registry-forensics-tools/)
 - [DFIR Career Guide](https://www.dfir.training/dfir-career)
 
 **Artifacts**
-- [Scheduled Tasks](https://lnkd.in/gC5ryZ_G)
-- [NTUSER.DAT](https://lnkd.in/gwUgF5s3)
-- [Network Data](https://lnkd.in/gkM77yvt)
-- [MUICache](https://lnkd.in/gtZXCt2N)
-- [UserAssist](https://lnkd.in/ggDNQP9J)
-- [AmCache](https://lnkd.in/gK7cvdtY)
-- [Shellbags](https://lnkd.in/gejn9BJR)
-- [RunMRU](https://lnkd.in/gsKX5nU8)
+- [Scheduled Tasks](https://www.cybertriage.com/blog/windows-scheduled-tasks-for-dfir-investigations/)
+- [NTUSER.DAT](https://www.cybertriage.com/blog/ntuser-dat-forensics-analysis-2025/)
+- [Network Data](https://www.cybertriage.com/blog/how-to-find-evidence-of-network-windows-registry/)
+- [MUICache](https://www.cybertriage.com/blog/muicache-2025-guide/)
+- [UserAssist](https://www.cybertriage.com/blog/userassist-forensics-2025/)
+- [AmCache](https://www.cybertriage.com/blog/shimcache-and-amcache-forensic-analysis-2025/)
+- [Shellbags](https://www.cybertriage.com/blog/shellbags-forensic-analysis-2025/)
+- [RunMRU](https://www.cybertriage.com/blog/how-to-investigate-runmru-2025/)
 
 ---
 
@@ -862,7 +863,7 @@
 | [MITRE ATT&CK](https://attack.mitre.org) | Adversary tactics & techniques framework |
 | [OWASP Top 10](https://owasp.org/www-project-top-ten/) | Web application security risks |
 | [Pentest Monkey Cheat Sheets](https://pentestmonkey.net/cheat-sheet) | Reverse shell & more |
-| [Active Directory Mindmap (HD)](https://lnkd.in/dCRQAW8g) | High-definition AD mindmap |
+| [Active Directory Mindmap (HD)](https://book.hacktricks.xyz/generic-methodologies-and-resources/active-directory-methodology) | High-definition AD mindmap |
 | [Linux Privilege Escalation Explained](https://www.codelivly.com/linux-privilege-escalation-explained/) | Linux privesc guide |
 | [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Curated hacking resources |
 | [Awesome OSINT](https://github.com/jivoi/awesome-osint) | OSINT tools & resources |
