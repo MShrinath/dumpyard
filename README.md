@@ -122,7 +122,7 @@
 |---|--------|
 | 1 | [(ISC)² Certified in Cybersecurity (free exam)](https://www.isc2.org/Certifications/CC) |
 | 2 | [Coursera (free audit)](https://www.coursera.org/learn/foundations-cybersecurity) |
-| 3 | [EC-Council Free Resources](https://www.coursera.org/learn/foundations-cybersecurity) |
+| 3 | [EC-Council Free Resources](https://www.eccouncil.org/cybersecurity-exchange/cyber-novice/free-cybersecurity-courses-beginners/) |
 | 4 | [Cisco Cyber Induction](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US) |
 | 5 | [Cisco Cyber Essentials](https://www.netacad.com/courses/cybersecurity-essentials?courseLang=en-US) |
 | 6 | [Fortinet NSE Training](https://www.fortinet.com/training/cybersecurity-professionals) |
@@ -297,8 +297,8 @@
 | 24 | [IPv6](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6UfS4DcMF0cmPTTgYxApQT) |
 | 25 | [VRF](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6rpjePThTVOaizyuzDrcGv) |
 | 26 | [PBR](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4rF_1McAgTKacQx1iCThUa) |
-| 27 | [EtherChannel](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4rF_1McAgTKacQx1iCThUa) |
-| 28 | [FHRP Full Course](https://www.youtube.com/playlist?list=PLmgyxPj-5jn4rF_1McAgTKacQx1iCThUa) |
+| 27 | [EtherChannel](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7nzJwTd0qjA7xDNB5ydeqh) |
+| 28 | [FHRP Full Course](https://www.youtube.com/playlist?list=PLmgyxPj-5jn6sbpEbd08XwveMbTrstSj1) |
 | 29 | [Subnetting Q&A](https://www.youtube.com/playlist?list=PLmgyxPj-5jn521pjRylAytFN6TC-cs2VA) |
 | 30 | [Packet Flow](https://www.youtube.com/playlist?list=PLmgyxPj-5jn7d_uRmMXZDygzHC-0MzWqm) |
 
