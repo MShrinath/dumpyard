@@ -1,6 +1,6 @@
 # Cybersecurity Resources
 
-> Personal collection of learning resources, tools, platforms, and references.
+> ⚠️ **Disclaimer:** Unofficial personal collection — not affiliated with any organization listed. Content is shared as-is, links may change, and nothing here is professional advice. Always practice ethical and legal standards. Feel free to reach out with suggestions or corrections!
 
 ---
 
