@@ -315,24 +315,28 @@
 | Sublist3r | Subdomain enumeration |
 
 ### Forensics
-- Autopsy
-- FTK (Forensic Toolkit)
-- EnCase
-- Wireshark
-- Magnet Axiom
-- Sleuth Kit
-- X-Ways Forensics
-- Cellebrite UFED (mobile data)
-- ProDiscover Forensic
-- Volatility Framework
-- Haystacksolutions
+| Tool | Use |
+|------|-----|
+| Autopsy | Open-source digital forensics platform |
+| FTK (Forensic Toolkit) | Commercial forensic investigation suite |
+| EnCase | Enterprise-grade disk forensics |
+| Wireshark | Network packet capture & analysis |
+| Magnet Axiom | Mobile & computer forensic investigation |
+| Sleuth Kit | CLI-based forensic toolkit |
+| X-Ways Forensics | Advanced hex editor & forensic tool |
+| Cellebrite UFED | Mobile device data extraction |
+| ProDiscover Forensic | Disk image acquisition & analysis |
+| Volatility Framework | Memory forensics framework |
+| Haystacksolutions | Cloud forensic tools |
 
 ### SOC Analyst
-- Splunk
-- CrowdStrike
-- VirusTotal
-- LetsDefend
-- Wireshark
+| Tool | Use |
+|------|-----|
+| Splunk | SIEM & log analysis platform |
+| CrowdStrike | Endpoint detection & response |
+| VirusTotal | Multi-engine malware scanning |
+| LetsDefend | SOC training environment |
+| Wireshark | Network traffic analysis |
 
 ### SOC GitHub Projects (Hands-On Labs)
 
@@ -361,9 +365,11 @@
 | SamFW | Samsung firmware |
 
 ### Browser Extensions
-- FoxyProxy
-- Shodan
-- Wappalyzer (technology profiler)
+| Extension | Use |
+|-----------|-----|
+| FoxyProxy | Proxy management (works with Burp/ZAP) |
+| Shodan | In-browser Shodan threat intelligence |
+| Wappalyzer | Website technology profiler |
 
 ### Reverse Engineering
 | Tool | Use |
@@ -414,184 +420,114 @@
 > Workflow-based methodology reference — organized by attack phase and technique category.
 
 ### 1. Recon & Discovery
-| Technique |
-|-----------|
-| Subdomain Enumeration |
-| DNS & IP Lookup |
-| Port Scanning |
-| WHOIS & Domain Research |
-| Certificate Transparency (CT Logs) |
-| Web Crawling & Spidering |
-| Google Dorking / Search Operators |
+| | | |
+|--|--|--|
+| Subdomain Enumeration | DNS & IP Lookup | Port Scanning |
+| WHOIS & Domain Research | Certificate Transparency (CT Logs) | Web Crawling & Spidering |
+| Google Dorking / Search Operators | | |
 
 ### 2. Web Application Testing
-| Technique |
-|-----------|
-| XSS Testing |
-| SQL Injection Testing |
-| File Upload Testing |
-| Directory & Path Discovery |
-| SSRF / LFI / RFI Testing |
-| HTML/JS Analyzers |
+| | | |
+|--|--|--|
+| XSS Testing | SQL Injection Testing | File Upload Testing |
+| Directory & Path Discovery | SSRF / LFI / RFI Testing | HTML/JS Analyzers |
 
 ### 3. Network Analysis
-| Technique |
-|-----------|
-| Network Scanning |
-| Port & Service Enumeration |
-| Packet Sniffing |
-| Traffic Analysis |
-| ARP/DNS Spoofing Simulation |
-| Host Discovery |
-| Protocol Inspection |
+| | | |
+|--|--|--|
+| Network Scanning | Port & Service Enumeration | Packet Sniffing |
+| Traffic Analysis | ARP/DNS Spoofing Simulation | Host Discovery |
+| Protocol Inspection | | |
 
 ### 4. Authentication Testing
-| Technique |
-|-----------|
-| Brute Force & Credential Stuffing |
-| Session Management Testing |
-| JWT / Token Analysis |
-| OAuth / SSO Flaws |
-| Password Policy Bypass |
-| MFA Bypass Testing |
+| | | |
+|--|--|--|
+| Brute Force & Credential Stuffing | Session Management Testing | JWT / Token Analysis |
+| OAuth / SSO Flaws | Password Policy Bypass | MFA Bypass Testing |
 
 ### 5. Vulnerability Assessment
-| Technique |
-|-----------|
-| CVE / Known Vulnerability Scanning |
-| Misconfiguration Detection |
-| Permission & Privilege Auditing |
-| Web Server Scanning |
-| Service Version Fingerprinting |
-| Risk Prioritization |
+| | | |
+|--|--|--|
+| CVE / Known Vulnerability Scanning | Misconfiguration Detection | Permission & Privilege Auditing |
+| Web Server Scanning | Service Version Fingerprinting | Risk Prioritization |
 
 ### 6. Security Headers & Config Testing
-| Technique |
-|-----------|
-| HTTP Security Headers Audit |
-| Cookie & Session Flag Testing |
-| TLS/SSL Configuration Testing |
-| CORS Misconfiguration Testing |
-| Clickjacking Prevention (X-Frame-Options) |
-| CSP (Content Security Policy) Review |
+| | | |
+|--|--|--|
+| HTTP Security Headers Audit | Cookie & Session Flag Testing | TLS/SSL Configuration Testing |
+| CORS Misconfiguration Testing | Clickjacking Prevention (X-Frame-Options) | CSP (Content Security Policy) Review |
 
 ### 7. File & Data Analysis
-| Technique |
-|-----------|
-| Metadata Extraction |
-| File Type Detection / Magic Bytes |
-| Steganography Detection |
-| Binary / Hex Analysis |
-| Embedded Payload Detection |
-| Document Forensics (PDF, Office files) |
+| | | |
+|--|--|--|
+| Metadata Extraction | File Type Detection / Magic Bytes | Steganography Detection |
+| Binary / Hex Analysis | Embedded Payload Detection | Document Forensics (PDF, Office files) |
 
 ### 8. Fuzzing & Input Testing
-| Technique |
-|-----------|
-| Parameter Fuzzing |
-| API Endpoint Fuzzing |
-| Boundary / Edge Case Testing |
-| Buffer Overflow Inputs |
-| Format String Testing |
-| Mutation-Based Fuzzing |
+| | | |
+|--|--|--|
+| Parameter Fuzzing | API Endpoint Fuzzing | Boundary / Edge Case Testing |
+| Buffer Overflow Inputs | Format String Testing | Mutation-Based Fuzzing |
 
 ### 9. Automation & Template-Based Scanning
-| Technique |
-|-----------|
-| Nuclei Templates |
-| Custom YAML/JSON Scan Configs |
-| CI/CD Pipeline Integration |
-| Scheduled Scan Automation |
-| Mass Scanning Scripts |
-| Result Aggregation & Deduplication |
+| | | |
+|--|--|--|
+| Nuclei Templates | Custom YAML/JSON Scan Configs | CI/CD Pipeline Integration |
+| Scheduled Scan Automation | Mass Scanning Scripts | Result Aggregation & Deduplication |
 
 ### 10. Mobile Security Analysis
-| Technique |
-|-----------|
-| APK Decompilation & Reverse |
-| Android Permission Analysis |
-| Traffic Interception / SSL Pinning Bypass |
-| Insecure Local Storage Detection |
-| Weak Encryption Auditing |
-| Android/iOS App Testing |
+| | | |
+|--|--|--|
+| APK Decompilation & Reverse | Android Permission Analysis | Traffic Interception / SSL Pinning Bypass |
+| Insecure Local Storage Detection | Weak Encryption Auditing | Android/iOS App Testing |
 
 ### 11. Reverse Engineering
-| Technique |
-|-----------|
-| Binary Disassembly |
-| Static Analysis |
-| Dynamic / Runtime Analysis |
-| Hardcoded Secret Extraction |
-| Encryption Routine Identification |
-| C2 / Malware Flow Analysis |
+| | | |
+|--|--|--|
+| Binary Disassembly | Static Analysis | Dynamic / Runtime Analysis |
+| Hardcoded Secret Extraction | Encryption Routine Identification | C2 / Malware Flow Analysis |
 
 ### 12. Encoding, Hashing & Encryption
-| Technique |
-|-----------|
-| Base64 / URL Encoding & Decoding |
-| Hash Generation & Cracking (MD5, SHA, bcrypt) |
-| JWT Decoding & Manipulation |
-| Cipher Identification |
-| Payload Obfuscation / Deobfuscation |
-| Weak Crypto Detection |
+| | | |
+|--|--|--|
+| Base64 / URL Encoding & Decoding | Hash Generation & Cracking (MD5, SHA, bcrypt) | JWT Decoding & Manipulation |
+| Cipher Identification | Payload Obfuscation / Deobfuscation | Weak Crypto Detection |
 
 ### 13. Forensics & Incident Analysis
-| Technique |
-|-----------|
-| Memory Dump Analysis |
-| Log Review & Timeline Reconstruction |
-| Disk Image Analysis |
-| Deleted File Recovery |
-| Persistence Mechanism Detection |
-| Attack Attribution |
+| | | |
+|--|--|--|
+| Memory Dump Analysis | Log Review & Timeline Reconstruction | Disk Image Analysis |
+| Deleted File Recovery | Persistence Mechanism Detection | Attack Attribution |
 
 ### 14. Utilities & Helpers
-| Technique |
-|-----------|
-| HTTP Request Builder |
-| Header Inspector / Analyzer |
-| Temp Email / Identity Generator |
-| Reverse Shell Generator |
-| Payload Encoder / Decoder |
-| Hash Identifier |
+| | | |
+|--|--|--|
+| HTTP Request Builder | Header Inspector / Analyzer | Temp Email / Identity Generator |
+| Reverse Shell Generator | Payload Encoder / Decoder | Hash Identifier |
 
 ### 15. Simulation & Learning Labs
-| Technique |
-|-----------|
-| XSS / SQLi / SSRF Practice Environments |
-| Brute Force Labs |
-| Account Takeover Challenges |
-| CTF-Style Exercises |
-| Incident Response Simulations |
+| | | |
+|--|--|--|
+| XSS / SQLi / SSRF Practice Environments | Brute Force Labs | Account Takeover Challenges |
+| CTF-Style Exercises | Incident Response Simulations | |
 
 ### 16. Post-Assessment Tools
-| Technique |
-|-----------|
-| Privilege Escalation Scripts |
-| User / Share Enumeration |
-| Lateral Movement Helpers |
-| Payload Delivery Tools |
-| Post-Exploitation Checklists |
-| Report / Evidence Collection |
+| | | |
+|--|--|--|
+| Privilege Escalation Scripts | User / Share Enumeration | Lateral Movement Helpers |
+| Payload Delivery Tools | Post-Exploitation Checklists | Report / Evidence Collection |
 
 ### 17. Cloud & Container Security
-| Technique |
-|-----------|
-| S3 Bucket Misconfiguration Scan |
-| Docker Image Vulnerability Scan |
-| Kubernetes RBAC Auditing |
-| Cloud IAM Review |
-| Container Escape Testing |
-| Public Cloud Exposure Detection |
+| | | |
+|--|--|--|
+| S3 Bucket Misconfiguration Scan | Docker Image Vulnerability Scan | Kubernetes RBAC Auditing |
+| Cloud IAM Review | Container Escape Testing | Public Cloud Exposure Detection |
 
 ### 18. Browser & Extension Tools
-| Technique |
-|-----------|
-| Traffic Interception (Burp/ZAP) |
-| Browser DevTools Exploitation |
-| CSP Debugger |
-| Script Injection via Extensions |
-| Cookie / Storage Inspector |
+| | | |
+|--|--|--|
+| Traffic Interception (Burp/ZAP) | Browser DevTools Exploitation | CSP Debugger |
+| Script Injection via Extensions | Cookie / Storage Inspector | |
 
 ---
 
@@ -623,7 +559,7 @@
 | [Dehashed](https://dehashed.com) | Dark web scan |
 | [Ahmia](https://ahmia.fi) | Dark web Tor search |
 | [GrayHatWarfare](https://grayhatwarfare.com) | AWS S3 bucket search |
-| [AlienVault OTX](https://otx.alienvault.com) | Real-time cyber threats ⭐ |
+| [AlienVault OTX](https://otx.alienvault.com) | Real-time cyber threats |
 | [Pentester.land](https://pentester.land) | Cyber blogs |
 | [Hacksplaining](https://www.hacksplaining.com) | Learn cyber |
 
@@ -709,118 +645,68 @@
 
 ### Beginner
 
-| # | Project |
-|---|----------|
-| 1 | Port Scanning with Nmap |
-| 2 | Network Packet Analysis |
-| 3 | MAC Address Spoofing |
-| 4 | Brute Forcing SSH Login |
-| 5 | Simple Password Cracker |
-| 6 | SQL Injection Basics |
-| 7 | Exploring XSS Vulnerabilities |
-| 8 | Wi-Fi Network Scanning |
-| 9 | Social Engineering |
-| 10 | Information Gathering with Recon-ng |
-| 11 | Email Phishing Simulation |
-| 12 | Building a Simple Keylogger |
-| 13 | Setting Up a Honeypot |
-| 14 | Packet Sniffing with Scapy |
-| 15 | Google Dorking |
-| 16 | Exploring OSINT with Maltego |
-| 17 | DNS Enumeration |
-| 18 | Simple ARP Spoofing Attack |
-| 19 | Creating Fake Login Pages |
-| 20 | Understanding Cookies and Sessions |
-| 21 | Creating Custom Wordlists |
-| 22 | SQLmap Usage for SQL Injection |
-| 23 | Basic Firewall Evasion Techniques |
-| 24 | HTTP Headers Analysis |
-| 25 | Exploring File Inclusion Vulnerabilities |
-| 26 | Understanding VPNs and Proxychains |
-| 27 | Burp Suite Basics |
-| 28 | Command Injection |
-| 29 | Password Hash Cracking with Hashcat |
-| 30 | Setup CTF Challenge |
+| # | Project | # | Project |
+|---|---------|---|---------|
+| 1 | Port Scanning with Nmap | 16 | Exploring OSINT with Maltego |
+| 2 | Network Packet Analysis | 17 | DNS Enumeration |
+| 3 | MAC Address Spoofing | 18 | Simple ARP Spoofing Attack |
+| 4 | Brute Forcing SSH Login | 19 | Creating Fake Login Pages |
+| 5 | Simple Password Cracker | 20 | Understanding Cookies and Sessions |
+| 6 | SQL Injection Basics | 21 | Creating Custom Wordlists |
+| 7 | Exploring XSS Vulnerabilities | 22 | SQLmap Usage for SQL Injection |
+| 8 | Wi-Fi Network Scanning | 23 | Basic Firewall Evasion Techniques |
+| 9 | Social Engineering | 24 | HTTP Headers Analysis |
+| 10 | Information Gathering with Recon-ng | 25 | Exploring File Inclusion Vulnerabilities |
+| 11 | Email Phishing Simulation | 26 | Understanding VPNs and Proxychains |
+| 12 | Building a Simple Keylogger | 27 | Burp Suite Basics |
+| 13 | Setting Up a Honeypot | 28 | Command Injection |
+| 14 | Packet Sniffing with Scapy | 29 | Password Hash Cracking with Hashcat |
+| 15 | Google Dorking | 30 | Setup CTF Challenge |
 
 ### Intermediate
 
-| # | Project |
-|---|----------|
-| 1 | Building a Vulnerability Scanner in Python |
-| 2 | Privilege Escalation |
-| 3 | Metasploit Basics |
-| 4 | Exploring Directory Traversal |
-| 5 | Session Hijacking in HTTP |
-| 6 | Exploiting CSRF Vulnerabilities |
-| 7 | Setting Up a C2 Server |
-| 8 | SSL Stripping with Bettercap |
-| 9 | Wireless Network Hacking |
-| 10 | Code Injection in Web Applications |
-| 11 | Advanced Social Engineering Toolkit (SET) |
-| 12 | Using Hydra for Password Cracking |
-| 13 | Network Mapping with Netdiscover |
-| 14 | SQL Injection Exploitation with SQLmap |
-| 15 | File Upload Exploitation |
-| 16 | ARP Poisoning and MITM Attack |
-| 17 | Exploit Development Basics |
-| 18 | Using Shodan for Recon |
-| 19 | Web Application Security with ZAP |
-| 20 | Automate Vulnerability Scanning with OpenVAS |
-| 21 | Conducting Phishing Campaigns |
-| 22 | Reverse Engineering Basics |
-| 23 | Cross-Site Scripting (XSS) Automation |
-| 24 | Setting Up a Virtual Lab for Pentesting |
-| 25 | Email Spoofing |
-| 26 | Exploiting Web Sockets |
-| 27 | Command and Control Using Netcat |
-| 28 | Router Exploitation |
-| 29 | Enumeration with Enum4Linux |
-| 30 | Creating Custom Exploits for Web Applications |
-| 31 | Using Wi-Fi Pineapple for MITM Attacks |
-| 32 | Exploring Buffer Overflow on Linux |
-| 33 | Network Recon with Airodump-ng |
-| 34 | Privilege Escalation on Windows |
-| 35 | Automated SQL Injection with jSQL |
-| 36 | Mobile Application Pentesting |
-| 37 | Analyzing Network Logs for Intrusions |
-| 38 | DNS Tunneling |
-| 39 | Brute Force Attack Simulation |
-| 40 | Client-Side Attacks with BeEF |
+| # | Project | # | Project |
+|---|---------|---|---------|
+| 1 | Building a Vulnerability Scanner in Python | 21 | Conducting Phishing Campaigns |
+| 2 | Privilege Escalation | 22 | Reverse Engineering Basics |
+| 3 | Metasploit Basics | 23 | Cross-Site Scripting (XSS) Automation |
+| 4 | Exploring Directory Traversal | 24 | Setting Up a Virtual Lab for Pentesting |
+| 5 | Session Hijacking in HTTP | 25 | Email Spoofing |
+| 6 | Exploiting CSRF Vulnerabilities | 26 | Exploiting Web Sockets |
+| 7 | Setting Up a C2 Server | 27 | Command and Control Using Netcat |
+| 8 | SSL Stripping with Bettercap | 28 | Router Exploitation |
+| 9 | Wireless Network Hacking | 29 | Enumeration with Enum4Linux |
+| 10 | Code Injection in Web Applications | 30 | Creating Custom Exploits for Web Applications |
+| 11 | Advanced Social Engineering Toolkit (SET) | 31 | Using Wi-Fi Pineapple for MITM Attacks |
+| 12 | Using Hydra for Password Cracking | 32 | Exploring Buffer Overflow on Linux |
+| 13 | Network Mapping with Netdiscover | 33 | Network Recon with Airodump-ng |
+| 14 | SQL Injection Exploitation with SQLmap | 34 | Privilege Escalation on Windows |
+| 15 | File Upload Exploitation | 35 | Automated SQL Injection with jSQL |
+| 16 | ARP Poisoning and MITM Attack | 36 | Mobile Application Pentesting |
+| 17 | Exploit Development Basics | 37 | Analyzing Network Logs for Intrusions |
+| 18 | Using Shodan for Recon | 38 | DNS Tunneling |
+| 19 | Web Application Security with ZAP | 39 | Brute Force Attack Simulation |
+| 20 | Automate Vulnerability Scanning with OpenVAS | 40 | Client-Side Attacks with BeEF |
 
 ### Advanced
 
-| # | Project |
-|---|----------|
-| 1 | Advanced Buffer Overflow Exploitation |
-| 2 | Exploit Vulnerable APIs |
-| 3 | Cross-Site Request Forgery (CSRF) Automation |
-| 4 | Custom Malware Development |
-| 5 | Develop a Remote Keylogger |
-| 6 | Post-Exploitation with Metasploit |
-| 7 | Exploit Evasion Techniques |
-| 8 | Advanced Ransomware Simulation |
-| 9 | Browser Exploitation |
-| 10 | Wireless Deauthentication Attack |
-| 11 | Developing a Python RAT |
-| 12 | Reverse Shell Development |
-| 13 | Code Injection in DLL Files |
-| 14 | Privilege Escalation on Linux |
-| 15 | Exploit Windows SMB Vulnerabilities |
-| 16 | Custom Bruteforce Tools with Python |
-| 17 | Advanced SQL Injection Automation |
-| 18 | Creating Persistent Backdoors |
-| 19 | NTLM Hash Extraction |
-| 20 | Social Media Phishing Campaigns |
-| 21 | Advanced Network Tunneling |
-| 22 | Developing WAF Bypass Techniques |
-| 23 | Password Spraying Attack |
-| 24 | Reverse Engineering for Malware Analysis |
-| 25 | Automating Reconnaissance with Python |
-| 26 | Custom Protocol Exploitation |
-| 27 | Bypassing Two-Factor Authentication |
-| 28 | Code Injection Exploits for Shellcode Execution |
-| 29 | Zero-Day Vulnerability Research |
-| 30 | End-to-End Pentest Simulation |
+| # | Project | # | Project |
+|---|---------|---|---------|
+| 1 | Advanced Buffer Overflow Exploitation | 16 | Custom Bruteforce Tools with Python |
+| 2 | Exploit Vulnerable APIs | 17 | Advanced SQL Injection Automation |
+| 3 | Cross-Site Request Forgery (CSRF) Automation | 18 | Creating Persistent Backdoors |
+| 4 | Custom Malware Development | 19 | NTLM Hash Extraction |
+| 5 | Develop a Remote Keylogger | 20 | Social Media Phishing Campaigns |
+| 6 | Post-Exploitation with Metasploit | 21 | Advanced Network Tunneling |
+| 7 | Exploit Evasion Techniques | 22 | Developing WAF Bypass Techniques |
+| 8 | Advanced Ransomware Simulation | 23 | Password Spraying Attack |
+| 9 | Browser Exploitation | 24 | Reverse Engineering for Malware Analysis |
+| 10 | Wireless Deauthentication Attack | 25 | Automating Reconnaissance with Python |
+| 11 | Developing a Python RAT | 26 | Custom Protocol Exploitation |
+| 12 | Reverse Shell Development | 27 | Bypassing Two-Factor Authentication |
+| 13 | Code Injection in DLL Files | 28 | Code Injection Exploits for Shellcode Execution |
+| 14 | Privilege Escalation on Linux | 29 | Zero-Day Vulnerability Research |
+| 15 | Exploit Windows SMB Vulnerabilities | 30 | End-to-End Pentest Simulation |
 
 ---
 
