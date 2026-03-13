@@ -93,6 +93,9 @@
 | [PwnCollege](https://pwn.college/) | Binary exploitation & systems security |
 | [PicoCTF](https://picoctf.org/) | Beginner CTF competitions |
 | [OverTheWire](https://overthewire.org/) | Wargames for Linux & security basics |
+| [Root-Me](https://www.root-me.org/) | CTF challenges and wargames |
+| [CMD Challenge](https://cmdchallenge.com) | Command-line practice challenges |
+| [AttackDefense](https://attackdefense.com) | Hands-on red/blue team labs |
 | [CrackMes](https://crackmes.one/) | Reverse engineering challenges |
 | [PortSwigger Web Security](https://portswigger.net/web-security) | Web hacking labs |
 | [Cisco NetAcad](https://www.netacad.com/) | Networking and cybersecurity courses |
@@ -263,6 +266,16 @@
 | [David Bombal](https://www.youtube.com/@davidbombal) | Networking, ethical hacking |
 | [Simply Cyber](https://www.youtube.com/@SimplyCyber) | SOC, career advice |
 | [STÖK](https://www.youtube.com/@STOKfredrik) | Bug bounty |
+| [Ryan Montgomery (0day)](https://www.youtube.com/@0dayctf) | Pentesting, safety awareness |
+| [InsiderPhD](https://www.youtube.com/@InsiderPhD) | Bug bounty, beginner-friendly web security |
+| [NahamSec](https://www.youtube.com/@NahamSec) | Bug bounty, recon, web app testing |
+| [UnixGuy](https://www.youtube.com/@unixguy) | Cloud security and cybersecurity careers |
+| [Prabh Nair](https://www.youtube.com/@PrabhNair1) | CISSP, cloud security, certification prep |
+| [RSAC Conference](https://www.youtube.com/@RSAConference) | Conference talks and industry trends |
+| [Black Hat](https://www.youtube.com/@BlackHatOfficialYT) | Advanced security research presentations |
+| [DEF CON](https://www.youtube.com/@DEFCONConference) | Hacker conference talks and demos |
+| [OWASP Foundation](https://www.youtube.com/@OWASPGLOBAL) | Web application security education |
+| [SANS Institute](https://www.youtube.com/@SANSInstitute) | Security training and technical research |
 | [Professor Messer](https://www.youtube.com/@professormesser) | CompTIA certifications |
 
 ---
@@ -733,6 +746,11 @@
 | [0xdf writeups](https://0xdf.gitlab.io/) | Detailed HackTheBox/CTF writeups |
 | [IppSec Search](https://ippsec.rocks/) | Search HackTheBox walkthrough videos |
 | [CTF101](https://ctf101.org/) | Beginner CTF concepts explained |
+| [Google CTF](https://lnkd.in/ejNk3E8D) | Google CTF resources (shared link) |
+| [Hacker Security](https://lnkd.in/dT8_JTgw) | Security challenges (shared link) |
+| [Hacker101 CTF](https://ctf.hacker101.com) | Web security CTF by HackerOne |
+| [Komodo CTF](https://ctf.komodosec.com) | CTF platform and challenges |
+| [Hackaflag](https://hackaflag.com.br) | CTF platform with challenges |
 | [CyberChef](https://gchq.github.io/CyberChef/) | Swiss Army knife for data manipulation |
 | [dCode](https://www.dcode.fr/en) | Cipher & encoding solver |
 
