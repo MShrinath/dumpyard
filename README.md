@@ -31,6 +31,7 @@
 - [Communities](#communities)
 - [Roadmaps](#roadmaps)
 - [Podcasts](#podcasts)
+- [Contact](#contact)
 
 ---
 
@@ -874,3 +875,18 @@
 | [Smashing Security](https://www.smashingsecurity.com/) | Casual cybersecurity news |
 | [SANS Internet Stormcast](https://isc.sans.edu/podcast.html) | Daily 5-min threat briefing |
 | [Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans) | Social engineering & phishing |
+
+---
+
+## Contact
+
+> Got a suggestion, broken link, or want to contribute? Feel free to reach out!
+
+| Platform | Link |
+|----------|------|
+| GitHub | [github.com/mshrinath](https://github.com/mshrinath) |
+| LinkedIn | [linkedin.com/in/mshrinath](https://linkedin.com/in/mshrinath) |
+| Portfolio | [mshrinxth.me](https://mshrinxth.me/) |
+| Email | mshrinath@proton.me |
+
+> Pull requests and issues are welcome!
